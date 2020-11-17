@@ -2,7 +2,9 @@
     border: 0px solid red;
 }
 
-
+.justify-center{
+  text-align: justify;
+}
 
 #services row{
     align-items: center;
