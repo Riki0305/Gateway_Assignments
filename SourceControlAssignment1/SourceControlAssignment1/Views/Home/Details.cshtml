@@ -1,0 +1,107 @@
+﻿@model SourceControlAssignment1.Models.User
+
+@{
+    ViewBag.Title = "Details";
+}
+    <div class="container">
+        <h2>Details</h2>
+
+        <div>
+            <h4>User</h4>
+            <hr />
+            <dl class="dl-horizontal row">
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.UserCode)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.UserCode)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Address)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.Address)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Pincode)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.Pincode)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.BirthDate)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.BirthDate)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Age)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.Age)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.MobileNom)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.MobileNom)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Landline)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.Landline)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.CreditCard)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    @Html.DisplayFor(model => model.CreditCard)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.ImageName)
+                </dt>
+
+                <dd class="col-md-3 card">
+                    <img src="@Url.Content(Model.ImageName)" width="100%" style="margin:5px auto"  />
+                </dd>
+
+            </dl>
+        </div>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id },new { @class = "btn btn-primary" }) 
+            @Html.ActionLink("Back to List", "Index",null, new { @class = "btn btn-info" })
+        </p>
+    </div>
