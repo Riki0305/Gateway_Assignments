@@ -1,0 +1,103 @@
+﻿@model SourceControlFinalAssignment_1.Models.User
+
+@{
+    ViewBag.Title = "UserProfile";
+    if (Session["username"] == null)
+    {
+        Response.Redirect("~/Home/Index", false);
+    }
+
+    
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<div class="jumbotron header">
+    <h1>Employee Management</h1>
+    <p>This is the employee management portal to manage employee records.</p>
+</div>
+<h2>User Profile</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal row">
+        <dt class="col-md-3 mb-2 pr-2">
+            Username
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  " id="Name">
+        </dd>
+
+        <dt class="col-md-3 mb-2 pr-2">
+            Email
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  " id="Email">
+        </dd>
+
+        <dt class="col-md-3 mb-2 pr-2">
+            Phone
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  " id="Phone">
+
+        </dd>
+
+        <dt class="col-md-3 mb-2 pr-2">
+            Usercode
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  " id="Code">
+
+        </dd>
+
+        <dt class="col-md-3 mb-2 pr-2">
+            Password
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  " id="Password">
+
+        </dd>
+
+        <dt class="col-md-3 mb-2 pr-2">
+            Age
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  " id="Age">
+
+        </dd>
+        <dt class="col-md-3 mb-2 pr-2">
+            User Image
+        </dt>
+
+        <dd class="col-md-3 mb-2 card p-2  ">
+            <img src="@Url.Content(Model.ImagePath)" width="100%" class="m-auto"/>
+        </dd>
+        @Html.HiddenFor(model => model.Id, new { htmlAttributes = new { @class = "form-control", id = "userId" } })
+    </dl>
+</div>
+
+
+<script>
+    $.ajax({
+        url: "/Home/GetUser",
+        method: "GET",
+        success: function (data) {
+            console.log(data);
+            data = JSON.parse(data);
+            console.log(data);
+
+            $("#userId").val(data.Id);
+            $("#Name").text(data.Name);
+            $("#Email").text(data.Email);
+            $("#Phone").text(data.Phone);
+            $("#Code").text(data.Code);
+            $("#Password").text(data.Password);
+            $("#Age").text(data.Age);
+        },
+        error: function (err) {
+            console.log(err);
+        }
+    })
+
+  
+   
+</script>

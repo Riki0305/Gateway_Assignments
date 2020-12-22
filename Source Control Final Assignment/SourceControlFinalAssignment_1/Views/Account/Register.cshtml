@@ -1,0 +1,167 @@
+﻿@model SourceControlFinalAssignment_1.Models.User
+
+@{
+    ViewBag.Title = "Create";
+}
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+@*Client side validations*@
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<link href="~/Content/Site.css" rel="stylesheet" />
+<h2>Register User</h2>
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { enctype = "multipart/form-data", id = "registerform" }))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+
+    @Html.ValidationSummary(false, "Please Fix the following errors and then try to register", new { @class = "text-danger" })
+
+    @Html.ValidationMessage("ErrorText", "", new { @class="text-danger"})
+
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", id = "username" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger", id = "nameText" })
+
+            </div>
+        </div>
+
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @*@Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })*@
+                @Html.ValidationMessage("Email", "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.Code, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Code, new { htmlAttributes = new { @class = "form-control", id = "code" } })
+                @Html.ValidationMessageFor(model => model.Code, "", new { @class = "text-danger", id = "codeText" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Age, htmlAttributes: new { @class = "control-label col-md-6" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Age, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Age, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", id = "password" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control", id = "confirmpassword" } })
+                @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger", id = "confirmtext" })
+            </div>
+        </div>
+
+        <div class="form-group col-md-6">
+            @Html.LabelFor(model => model.ImagePath, htmlAttributes: new { @class = "control-label col-md-6" })
+            <div class="col-md-10">
+                <input type="file" name="userImage" id="userImage" onchange="validateFileType(this.value)"  /><br />
+                @Html.ValidationMessage("userImage", "", new { @class = "text-danger" ,id="imageText"})
+                @Html.ValidationMessageFor(model => model.ImagePath, "", new { @class="text-danger"})
+            </div>
+        </div>
+
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" id="btnSubmit" value="Create" class="btn btn-success" />
+        </div>
+    </div>
+</div>
+}
+
+<script>
+    $(function () {
+        //Client side custom validations
+        $("#btnSubmit").click(function () {
+            var password = $("#password").val();
+            var confirmpassword = $("#confirmpassword").val();
+            var username = $("#username").val();
+            var code = $("#code").val();
+            var image = $("#userImage").val();
+            var flag = 0;
+
+           
+
+            if (image == null) {
+                $("#imageText").text("The User Image field is required");
+                flag = 1;
+            }
+
+            if (username != "" && username.indexOf(' ') >= 0) {
+                $("#nameText").text("Username must NOT contain white space");
+                flag = 1;
+            }
+            if (code != "" && code.indexOf('EMP') == -1) {
+                $("#codeText").text("The code must contain EMP phrase");
+                flag = 1;
+            }
+            if (password != "" && confirmpassword != "") {
+                if (password != confirmpassword) {
+                    $("#confirmtext").text("Passwords do not match");
+                    //alert("Passwords do not match!");
+                    flag = 1;
+                }
+            }
+            if (flag == 1)
+                return false;
+            return true;
+        })
+
+
+    })
+
+    function validateFileType(imageFile) {
+        console.log("image  "+imageFile);
+        if (imageFile == "")
+            $("#imageText").text("The User Image field is required");
+        else {
+            var ext = imageFile.split(".");
+            ext = ext[ext.length - 1].toLowerCase();
+            //console.log(ext);
+            var imgType = ["jpg", "jpeg", "png", "gif"];
+
+            if (!imgType.includes(ext)) {
+                $("#imageText").text("Only image files are allowed");
+            }
+            else {
+                $("#imageText").text("");
+            }
+        }
+        
+        
+    }
+</script>
+
+

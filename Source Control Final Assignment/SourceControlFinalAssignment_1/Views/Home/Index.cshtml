@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    if(Session["username"]!=null)
+    {
+        Response.Redirect("~/Home/UserProfile", false);
+    }
+}
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <div class="container">
+        <div class="jumbotron header" >
+            <h1>Employee Management</h1>
+            <p>This is the employee management application to manage employee records.</p>
+        </div>
+        <br />
+        <div class="container">
+            <div class="row border p-3 rounded">
+                <div class="col-md-6">
+                    <p>User Login, to manage your profile</p>
+                    @Html.ActionLink("Login", "Login", "Account", null, new { @class = "btn btn-success" })
+                </div>
+                <div class="col-md-6">
+                    <p>If you have not registrated yet, then register now.</p>
+                    @Html.ActionLink("Register", "Register", "Account", null, new { @class = "btn btn-primary" })
+                </div>
+            </div>
+            
+            
+            
+        </div>
+    </div>
+<br>
+
