@@ -1,8 +1,4 @@
-# Source Control Final Assignment
-
-Showcasing the below properties:
-
-1) Create Login, Registration and Display a simple Dashboard page with detail of User after     
+1)  Create Login, Registration and Display a simple Dashboard page with detail of User after     
       Successfully login or register
 
 2) Mapped created project in Git with below operations: 
@@ -36,7 +32,6 @@ Showcasing the below properties:
             3.2.8)    Client-side validations
 
 4) Manage Nugget packages of NewtonsoftJSON
+
 5) Exception Handling & Logging
-Log4net (Logging in text file + logging in SQL database)
- 			OR
-Nlog (Logging in text file + logging in SQL database)
+      Nlog (Logging in text file + logging in SQL database)
