@@ -2,11 +2,11 @@
       Successfully login or register
 
 2) Mapped created project in Git with below operations: 
-           2.1) Commit and Push
-           2.2) Fetch and Pull
-           2.3) Undo
-           2.4) Merge
-           2.5) Resolved Conflicts
+           2.1) Commit and Push  
+           2.2) Fetch and Pull  
+           2.3) Undo  
+           2.4) Merge  
+           2.5) Resolved Conflicts  
 
 3) Data Annotation and Validations 
          3.1) Server-side validations with validator attributes: 
@@ -23,9 +23,7 @@
             3.2.2)	Default validations
             3.2.3)	Custom validations
             3.2.4)	Methods     
-
-    	      Validation with Messages & Summary: 
-
+            Validation with Messages & Summary: 
             3.2.5)	Validation Summary 
             3.2.6)	ValidationMessageFor
             3.2.7)	Validation Message
