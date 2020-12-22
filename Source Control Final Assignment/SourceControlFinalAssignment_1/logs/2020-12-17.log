@@ -1,0 +1,24 @@
+2020-12-17 09:03:31.3253 INFO Logged in user :max
+2020-12-17 09:03:31.3701 INFO Displaying user :max
+2020-12-17 09:03:37.8111 DEBUG Logging out user :max
+2020-12-17 09:04:05.0197 ERROR Incorrect user :max1
+2020-12-17 09:05:32.1935 ERROR Incorrect Password for user : max
+2020-12-17 09:05:34.7880 ERROR Incorrect user : max11
+2020-12-17 09:05:44.2119 INFO Logged in user : max
+2020-12-17 09:05:44.2239 INFO Displaying user : max
+2020-12-17 09:05:47.1472 INFO Displaying user : max
+2020-12-17 09:05:49.4473 INFO Displaying user : max
+2020-12-17 09:05:51.1196 DEBUG Logging out user : max
+2020-12-17 09:53:36.8732 INFO Logged in user : max
+2020-12-17 09:53:36.9380 INFO Displaying user : max
+2020-12-17 09:55:04.9148 DEBUG Logging out user : max
+2020-12-17 09:59:57.7920 INFO Logged in user : max
+2020-12-17 09:59:57.8029 INFO Displaying user : max
+2020-12-17 10:00:19.2526 INFO Displaying user : max
+2020-12-17 10:00:26.7147 INFO Displaying user : max
+2020-12-17 10:01:00.8095 INFO Displaying user : max
+2020-12-17 10:01:14.2007 INFO Displaying user : max
+2020-12-17 10:01:17.9716 DEBUG Logging out user : max
+2020-12-17 10:01:21.6578 INFO Logged in user : max
+2020-12-17 10:01:21.6578 INFO Displaying user : max
+2020-12-17 10:01:41.3771 ERROR Can not find user : 

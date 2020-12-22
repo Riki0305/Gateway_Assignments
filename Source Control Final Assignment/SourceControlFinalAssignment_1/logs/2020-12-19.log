@@ -1,0 +1,196 @@
+2020-12-19 09:19:29.5260 INFO Logged in user : max
+2020-12-19 09:20:14.0143 INFO Logged in user : max
+2020-12-19 09:20:14.0991 INFO Displaying user : max
+2020-12-19 09:20:16.7959 DEBUG Logging out user : max
+2020-12-19 10:01:02.3578 INFO Logged in user : max
+2020-12-19 10:01:03.1482 INFO Displaying user : max
+2020-12-19 10:01:05.0507 DEBUG Logging out user : max
+2020-12-19 10:09:33.5272 INFO Logged in user : max
+2020-12-19 10:09:33.8303 INFO Displaying user : max
+2020-12-19 10:09:35.9883 DEBUG Logging out user : max
+2020-12-19 10:21:56.4116 INFO Logged in user : max
+2020-12-19 10:21:56.6777 INFO Displaying user : max
+2020-12-19 10:22:01.2649 INFO Displaying user : max
+2020-12-19 10:22:30.8988 INFO Logged in user : max
+2020-12-19 10:22:31.1598 INFO Displaying user : max
+2020-12-19 10:22:33.3109 DEBUG Logging out user : max
+2020-12-19 11:55:23.4373 ERROR System.InvalidOperationException: The model backing the 'UserContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.<>c__DisplayClass66_0`1.<CreateInitializationAction>b__0()
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.LazyInternalContext.<>c.<InitializeDatabase>b__58_0(InternalContext c)
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabase()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at SourceControlFinalAssignment_1.Controllers.AccountController.Register(User user, HttpPostedFileBase userImage) in C:\Users\Rikin\source\repos\SourceControlFinalAssignment_1\SourceControlFinalAssignment_1\Controllers\AccountController.cs:line 64
+2020-12-19 11:56:59.6885 ERROR System.InvalidOperationException: The model backing the 'UserContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+   at System.Data.Entity.CreateDatabaseIfNotExists`1.InitializeDatabase(TContext context)
+   at System.Data.Entity.Internal.InternalContext.<>c__DisplayClass66_0`1.<CreateInitializationAction>b__0()
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.LazyInternalContext.<>c.<InitializeDatabase>b__58_0(InternalContext c)
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabase()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at SourceControlFinalAssignment_1.Controllers.AccountController.Register(User user, HttpPostedFileBase userImage) in C:\Users\Rikin\source\repos\SourceControlFinalAssignment_1\SourceControlFinalAssignment_1\Controllers\AccountController.cs:line 64
+2020-12-19 11:59:47.7669 ERROR Already Exists : max
+2020-12-19 12:05:25.6202 INFO Image extension : .jpg
+2020-12-19 12:06:21.0311 INFO Image extension : .jpg
+2020-12-19 12:06:22.8812 ERROR Already Exists : max
+2020-12-19 12:06:29.3409 INFO Image extension : .txt
+2020-12-19 12:09:46.8971 INFO Image extension : .txt
+2020-12-19 12:25:13.3161 INFO Logged in user : max
+2020-12-19 12:25:13.4677 INFO Displaying user : max
+2020-12-19 12:25:20.7044 DEBUG Logging out user : max
+2020-12-19 13:45:08.0455 INFO Image extension : .jpg
+2020-12-19 13:45:31.4459 ERROR Already Exists : max
+2020-12-19 13:48:35.3635 INFO Image extension : .jpg
+2020-12-19 13:48:36.6496 INFO Added user : akshil
+2020-12-19 13:53:38.6822 INFO Logged in user : akshil
+2020-12-19 13:53:39.2144 INFO Displaying user : akshil
+2020-12-19 13:54:00.5536 DEBUG Logging out user : akshil
+2020-12-19 14:02:55.4174 INFO Logged in user : akshil
+2020-12-19 14:02:55.5956 ERROR User not found : 
+2020-12-19 14:02:55.6569 ERROR User not found : 
+2020-12-19 14:02:55.7071 ERROR User not found : 
+2020-12-19 14:02:55.7600 ERROR User not found : 
+2020-12-19 14:02:55.8367 ERROR User not found : 
+2020-12-19 14:02:55.8787 ERROR User not found : 
+2020-12-19 14:02:55.9266 ERROR User not found : 
+2020-12-19 14:02:55.9698 ERROR User not found : 
+2020-12-19 14:02:56.0204 ERROR User not found : 
+2020-12-19 14:02:56.0615 ERROR User not found : 
+2020-12-19 14:02:57.3192 ERROR User not found : 
+2020-12-19 14:02:57.3696 ERROR User not found : 
+2020-12-19 14:02:57.3897 ERROR User not found : 
+2020-12-19 14:02:57.4097 ERROR User not found : 
+2020-12-19 14:02:57.4627 ERROR User not found : 
+2020-12-19 14:02:57.4827 ERROR User not found : 
+2020-12-19 14:02:57.5068 ERROR User not found : 
+2020-12-19 14:02:57.5265 ERROR User not found : 
+2020-12-19 14:02:57.5475 ERROR User not found : 
+2020-12-19 14:02:57.5685 ERROR User not found : 
+2020-12-19 14:03:01.3411 ERROR User not found : 
+2020-12-19 14:03:01.3684 ERROR User not found : 
+2020-12-19 14:03:01.3924 ERROR User not found : 
+2020-12-19 14:03:01.4171 ERROR User not found : 
+2020-12-19 14:03:01.4388 ERROR User not found : 
+2020-12-19 14:03:01.4642 ERROR User not found : 
+2020-12-19 14:03:01.4905 ERROR User not found : 
+2020-12-19 14:03:01.5165 ERROR User not found : 
+2020-12-19 14:03:01.5405 ERROR User not found : 
+2020-12-19 14:03:01.5638 ERROR User not found : 
+2020-12-19 14:03:06.6843 ERROR User not found : 
+2020-12-19 14:03:06.7445 ERROR User not found : 
+2020-12-19 14:03:06.7846 ERROR User not found : 
+2020-12-19 14:03:06.8075 ERROR User not found : 
+2020-12-19 14:03:06.8355 ERROR User not found : 
+2020-12-19 14:03:06.8611 ERROR User not found : 
+2020-12-19 14:03:06.8918 ERROR User not found : 
+2020-12-19 14:03:06.9204 ERROR User not found : 
+2020-12-19 14:03:06.9465 ERROR User not found : 
+2020-12-19 14:03:06.9855 ERROR User not found : 
+2020-12-19 14:04:11.9855 INFO Logged in user : max
+2020-12-19 14:04:12.1594 ERROR User not found : 
+2020-12-19 14:04:12.2103 ERROR User not found : 
+2020-12-19 14:04:12.2401 ERROR User not found : 
+2020-12-19 14:04:12.2731 ERROR User not found : 
+2020-12-19 14:04:12.3020 ERROR User not found : 
+2020-12-19 14:04:12.3400 ERROR User not found : 
+2020-12-19 14:04:12.3728 ERROR User not found : 
+2020-12-19 14:04:12.4027 ERROR User not found : 
+2020-12-19 14:04:12.4316 ERROR User not found : 
+2020-12-19 14:04:12.4685 ERROR User not found : 
+2020-12-19 14:04:13.6266 ERROR User not found : 
+2020-12-19 14:04:13.6914 ERROR User not found : 
+2020-12-19 14:04:13.7333 ERROR User not found : 
+2020-12-19 14:04:13.7562 ERROR User not found : 
+2020-12-19 14:04:13.7765 ERROR User not found : 
+2020-12-19 14:04:13.7981 ERROR User not found : 
+2020-12-19 14:04:13.8190 ERROR User not found : 
+2020-12-19 14:04:13.8357 ERROR User not found : 
+2020-12-19 14:04:13.8507 ERROR User not found : 
+2020-12-19 14:04:13.8696 ERROR User not found : 
+2020-12-19 14:07:23.1248 INFO Logged in user : max
+2020-12-19 14:07:23.2862 ERROR User not found : max
+2020-12-19 14:07:23.3331 ERROR User not found : max
+2020-12-19 14:07:23.3650 ERROR User not found : max
+2020-12-19 14:07:23.4019 ERROR User not found : max
+2020-12-19 14:07:23.4298 ERROR User not found : max
+2020-12-19 14:07:23.4587 ERROR User not found : max
+2020-12-19 14:07:23.4863 ERROR User not found : max
+2020-12-19 14:07:23.5182 ERROR User not found : max
+2020-12-19 14:07:23.5511 ERROR User not found : max
+2020-12-19 14:07:23.5830 ERROR User not found : max
+2020-12-19 14:07:24.7477 ERROR User not found : max
+2020-12-19 14:07:24.7978 ERROR User not found : max
+2020-12-19 14:07:24.8437 ERROR User not found : max
+2020-12-19 14:07:24.8676 ERROR User not found : max
+2020-12-19 14:07:24.8886 ERROR User not found : max
+2020-12-19 14:07:24.9075 ERROR User not found : max
+2020-12-19 14:07:24.9259 ERROR User not found : max
+2020-12-19 14:07:24.9469 ERROR User not found : max
+2020-12-19 14:07:24.9698 ERROR User not found : max
+2020-12-19 14:07:24.9887 ERROR User not found : max
+2020-12-19 14:07:30.1106 ERROR User not found : max
+2020-12-19 14:07:30.1346 ERROR User not found : max
+2020-12-19 14:07:30.1556 ERROR User not found : max
+2020-12-19 14:07:30.1759 ERROR User not found : max
+2020-12-19 14:07:30.2034 ERROR User not found : max
+2020-12-19 14:07:30.2263 ERROR User not found : max
+2020-12-19 14:07:30.2532 ERROR User not found : max
+2020-12-19 14:07:30.2742 ERROR User not found : max
+2020-12-19 14:07:30.3001 ERROR User not found : max
+2020-12-19 14:07:30.3216 ERROR User not found : max
+2020-12-19 14:14:01.2631 INFO Logged in user : max
+2020-12-19 14:15:44.6264 INFO Logged in user : akshil
+2020-12-19 14:15:44.9028 INFO Displaying user : akshil
+2020-12-19 14:16:12.3446 INFO Displaying user : akshil
+2020-12-19 14:17:36.0582 ERROR User not found : 
+2020-12-19 14:19:20.6666 INFO Image extension : .txt
+2020-12-19 14:19:55.0499 INFO Image extension : .txt
+2020-12-19 14:23:18.1075 INFO Image extension : .jpg
+2020-12-19 14:23:23.1153 INFO Added user : rikin
+2020-12-19 14:23:23.4694 INFO Displaying user : rikin
+2020-12-19 14:24:33.6873 INFO Displaying user : rikin
+2020-12-19 14:24:45.4720 INFO Displaying user : rikin
+2020-12-19 14:25:26.8700 INFO Displaying user : rikin
+2020-12-19 14:25:44.3720 INFO Displaying user : rikin
+2020-12-19 14:25:55.9733 INFO Displaying user : rikin
+2020-12-19 14:26:22.8016 INFO Displaying user : rikin
+2020-12-19 14:26:56.8587 INFO Displaying user : rikin
+2020-12-19 14:27:36.5216 INFO Displaying user : rikin
+2020-12-19 14:27:45.3447 INFO Displaying user : rikin
+2020-12-19 14:30:01.1902 INFO Displaying user : rikin
+2020-12-19 14:31:13.7029 INFO Displaying user : rikin
+2020-12-19 14:32:25.9624 INFO Displaying user : rikin
+2020-12-19 14:32:58.1884 INFO Displaying user : rikin
+2020-12-19 17:13:02.7192 ERROR User not found : 
+2020-12-19 17:13:09.0085 ERROR Incorrect user : max
+2020-12-19 17:13:37.7787 INFO Logged in user : rikin
+2020-12-19 17:13:38.4330 INFO Displaying user : rikin
+2020-12-19 17:14:11.9315 INFO Displaying user : rikin
+2020-12-19 17:14:24.6791 DEBUG Logging out user : rikin
+2020-12-19 17:14:32.8759 INFO Logged in user : akshil
+2020-12-19 17:14:33.2191 INFO Displaying user : akshil
+2020-12-19 17:15:18.0303 INFO Displaying user : akshil
+2020-12-19 17:15:36.4099 INFO Displaying user : akshil
+2020-12-19 17:16:39.7695 DEBUG Logging out user : akshil
+2020-12-19 17:17:13.3975 INFO Image extension : .jpg
+2020-12-19 17:17:14.4843 INFO Added user : max
+2020-12-19 17:17:14.6287 INFO Displaying user : max
+2020-12-19 17:17:20.8090 DEBUG Logging out user : max
+2020-12-19 17:25:32.4437 ERROR Incorrect Password for user : akshil
