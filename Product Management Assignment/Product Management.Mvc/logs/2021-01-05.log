@@ -1,0 +1,141 @@
+2021-01-05 08:47:07.8571 INFO --  Search null if : 0
+2021-01-05 08:48:15.9057 INFO --  Search null if : 0
+2021-01-05 08:48:17.4794 INFO --  SearchBy - Name Search - 
+2021-01-05 08:48:17.4864 INFO --  First IF : 3
+2021-01-05 08:48:17.4864 INFO --  Search null if : 3
+2021-01-05 08:48:19.5359 INFO --  SearchBy - Name Search - 
+2021-01-05 08:48:19.5359 INFO --  First IF : 3
+2021-01-05 08:48:19.5359 INFO --  Search null if : 3
+2021-01-05 08:48:20.8155 INFO --  SearchBy - Name Search - 
+2021-01-05 08:48:20.8155 INFO --  First IF : 3
+2021-01-05 08:48:20.8155 INFO --  Search null if : 3
+2021-01-05 08:48:23.2532 INFO --  SearchBy - Name Search - 
+2021-01-05 08:48:23.2532 INFO --  First IF : 3
+2021-01-05 08:48:23.2532 INFO --  Search null if : 3
+2021-01-05 08:48:29.0197 INFO --  SearchBy - Name Search - R
+2021-01-05 08:48:29.0197 INFO --  First IF : 3
+2021-01-05 08:48:29.0277 INFO --  Searching : 3 Search R
+2021-01-05 08:48:29.0985 INFO --  Search null else : 3
+2021-01-05 08:48:34.4821 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:34.4821 INFO --  First IF : 3
+2021-01-05 08:48:34.4821 INFO --  Searching : 3 Search o
+2021-01-05 08:48:34.4821 INFO --  Search null else : 3
+2021-01-05 08:48:36.1985 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:36.1985 INFO --  First IF : 2
+2021-01-05 08:48:36.1985 INFO --  Searching : 2  o
+2021-01-05 08:48:36.1985 INFO --  Search null else : 2
+2021-01-05 08:48:37.1600 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:37.1600 INFO --  First IF : 2
+2021-01-05 08:48:37.1600 INFO --  Searching : 2  o
+2021-01-05 08:48:37.1680 INFO --  Search null else : 2
+2021-01-05 08:48:37.8641 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:37.8641 INFO --  First IF : 2
+2021-01-05 08:48:37.8641 INFO --  Searching : 2  o
+2021-01-05 08:48:37.8711 INFO --  Search null else : 2
+2021-01-05 08:48:38.6390 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:38.6390 INFO --  First IF : 2
+2021-01-05 08:48:38.6390 INFO --  Searching : 2  o
+2021-01-05 08:48:38.6390 INFO --  Search null else : 2
+2021-01-05 08:48:40.0203 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:40.0203 INFO --  First IF : 2
+2021-01-05 08:48:40.0203 INFO --  Searching : 2  o
+2021-01-05 08:48:40.0303 INFO --  Search null else : 2
+2021-01-05 08:48:40.6776 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:40.6776 INFO --  First IF : 2
+2021-01-05 08:48:40.6776 INFO --  Searching : 2  o
+2021-01-05 08:48:40.6855 INFO --  Search null else : 2
+2021-01-05 08:48:41.6180 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:41.6180 INFO --  First IF : 2
+2021-01-05 08:48:41.6180 INFO --  Searching : 2  o
+2021-01-05 08:48:41.6260 INFO --  Search null else : 2
+2021-01-05 08:48:42.2494 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:42.2494 INFO --  First IF : 2
+2021-01-05 08:48:42.2494 INFO --  Searching : 2  o
+2021-01-05 08:48:42.2494 INFO --  Search null else : 2
+2021-01-05 08:48:44.0136 INFO --  SearchBy - Name Search - o
+2021-01-05 08:48:44.0136 INFO --  First IF : 2
+2021-01-05 08:48:44.0136 INFO --  Searching : 2  o
+2021-01-05 08:48:44.0136 INFO --  Search null else : 2
+2021-01-05 08:48:46.2955 INFO --  Search null if : 0
+2021-01-05 08:48:53.4295 INFO --  Search null if : 0
+2021-01-05 08:50:01.2061 INFO --  Search null if : 0
+2021-01-05 08:50:10.9461 INFO --  Search null if : 0
+2021-01-05 08:50:38.8654 INFO --  Search null if : 0
+2021-01-05 08:51:15.7318 INFO --  Search null if : 0
+2021-01-05 08:51:31.2453 INFO --  Search null if : 0
+2021-01-05 08:51:33.6179 INFO --  Search null if : 0
+2021-01-05 08:52:01.2351 INFO --  Search null if : 0
+2021-01-05 08:52:21.0989 INFO --  Search null if : 0
+2021-01-05 09:45:03.0013 INFO --  Search null if : 0
+2021-01-05 09:47:23.9330 INFO --  Search null if : 0
+2021-01-05 12:18:33.5752 INFO --  Search null if : 0
+2021-01-05 12:22:30.4320 INFO --  Search null if : 0
+2021-01-05 12:24:55.4406 INFO --  Search null if : 0
+2021-01-05 12:25:12.9634 INFO --  Search null if : 0
+2021-01-05 12:25:16.9234 INFO --  Search null if : 0
+2021-01-05 12:25:26.6053 INFO --  Search null if : 0
+2021-01-05 12:25:28.4623 INFO --  Search null if : 0
+2021-01-05 12:25:31.3686 INFO --  Search null if : 0
+2021-01-05 12:26:31.2095 INFO --  Search null if : 0
+2021-01-05 12:26:39.6091 INFO --  Search null if : 0
+2021-01-05 12:26:42.1696 INFO --  Search null if : 0
+2021-01-05 12:27:06.4583 INFO --  Search null if : 0
+2021-01-05 12:27:20.3850 INFO --  Search null if : 0
+2021-01-05 12:27:30.0492 INFO --  Search null if : 0
+2021-01-05 12:27:32.5196 INFO --  Search null if : 0
+2021-01-05 12:27:35.5275 INFO --  Search null if : 0
+2021-01-05 12:28:00.5313 INFO --  Search null if : 0
+2021-01-05 12:28:06.8136 INFO --  Search null if : 0
+2021-01-05 12:28:16.2505 INFO --  Search null if : 0
+2021-01-05 12:28:18.8468 INFO --  Search null if : 0
+2021-01-05 12:28:25.6114 INFO --  Search null if : 0
+2021-01-05 12:28:34.9923 INFO --  Search null if : 0
+2021-01-05 12:29:24.1179 INFO --  Search null if : 0
+2021-01-05 12:29:25.9799 INFO --  Search null if : 0
+2021-01-05 12:29:43.2999 INFO --  Search null if : 0
+2021-01-05 12:29:46.9538 INFO --  Search null if : 0
+2021-01-05 12:30:55.1134 INFO --  Search null if : 0
+2021-01-05 12:30:57.2311 INFO --  Search null if : 0
+2021-01-05 12:31:06.2047 INFO --  Search null if : 0
+2021-01-05 12:31:10.6479 INFO --  Search null if : 0
+2021-01-05 12:31:11.8755 INFO --  Search null if : 0
+2021-01-05 12:31:19.6034 INFO --  Search null if : 0
+2021-01-05 12:31:26.9147 INFO --  Search null if : 0
+2021-01-05 12:31:31.0505 INFO --  Search null if : 0
+2021-01-05 12:31:37.9638 INFO --  Search null if : 0
+2021-01-05 12:31:40.8032 INFO --  Search null if : 0
+2021-01-05 12:31:43.6970 INFO --  Search null if : 0
+2021-01-05 12:32:03.1175 INFO --  Search null if : 0
+2021-01-05 12:32:11.8023 INFO --  Search null if : 0
+2021-01-05 12:32:13.4052 INFO --  Search null if : 0
+2021-01-05 12:32:50.2285 INFO --  Search null if : 0
+2021-01-05 12:33:01.9652 INFO --  Search null if : 0
+2021-01-05 12:33:08.8189 INFO --  Search null if : 0
+2021-01-05 12:33:14.1670 INFO --  Search null if : 0
+2021-01-05 12:33:31.2855 INFO --  Search null if : 0
+2021-01-05 12:34:15.1255 INFO --  Search null if : 0
+2021-01-05 12:34:16.4849 INFO --  Search null if : 0
+2021-01-05 12:34:18.3369 INFO --  Search null if : 0
+2021-01-05 12:34:19.2774 INFO --  Search null if : 0
+2021-01-05 12:34:20.0034 INFO --  Search null if : 0
+2021-01-05 12:34:25.7414 INFO --  Search null if : 0
+2021-01-05 12:34:27.2221 INFO --  Search null if : 0
+2021-01-05 12:50:14.2909 INFO --  Search null if : 0
+2021-01-05 12:58:00.5778 INFO --  Search null if : 0
+2021-01-05 13:08:54.6117 INFO --  Search null if : 0
+2021-01-05 13:09:02.4398 INFO --  Search null if : 0
+2021-01-05 13:10:05.2727 INFO --  Search null if : 0
+2021-01-05 13:10:09.9652 INFO --  Search null if : 0
+2021-01-05 13:10:10.5935 INFO --  Search null if : 0
+2021-01-05 13:10:11.4011 INFO --  Search null if : 0
+2021-01-05 13:10:12.3460 INFO --  Search null if : 0
+2021-01-05 13:10:17.0353 INFO --  Search null if : 0
+2021-01-05 13:10:22.9521 INFO --  Search null if : 0
+2021-01-05 13:10:26.1419 INFO --  Search null if : 0
+2021-01-05 13:10:27.1236 INFO --  Search null if : 0
+2021-01-05 13:10:28.1854 INFO --  Search null if : 0
+2021-01-05 13:10:31.2183 INFO --  Search null if : 0
+2021-01-05 13:10:33.8062 INFO --  Search null if : 0
+2021-01-05 13:10:39.1562 INFO --  Search null if : 0
+2021-01-05 13:11:54.0409 INFO --  Search null if : 0
+2021-01-05 13:23:52.6632 INFO --  Search null if : 0

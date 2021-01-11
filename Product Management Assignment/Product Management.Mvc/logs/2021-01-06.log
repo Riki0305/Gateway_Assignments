@@ -1,0 +1,150 @@
+2021-01-06 10:40:10.0889 INFO --  Search null if : 0
+2021-01-06 10:40:50.7664 INFO --  Search null if : 0
+2021-01-06 10:40:54.9611 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 10:40:54.9811 INFO --  First IF : 3
+2021-01-06 10:40:55.0170 INFO --  Searching : 3 Search Mobile
+2021-01-06 10:40:55.3660 INFO --  Search null else : 3
+2021-01-06 10:40:58.9584 INFO --  SearchBy - Name Search - o
+2021-01-06 10:40:58.9734 INFO --  First IF : 3
+2021-01-06 10:40:58.9974 INFO --  Searching : 3 Search o
+2021-01-06 10:40:59.1848 INFO --  Search null else : 3
+2021-01-06 10:43:06.7391 INFO --  Search null if : 0
+2021-01-06 10:43:29.1402 INFO --  Search null if : 0
+2021-01-06 10:43:43.6319 INFO --  Search null if : 0
+2021-01-06 10:45:37.6170 INFO --  Search null if : 0
+2021-01-06 10:45:41.9614 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 10:45:42.0432 INFO --  First IF : 3
+2021-01-06 10:45:42.0723 INFO --  Searching : 3 Search Mobile
+2021-01-06 10:45:42.3055 INFO --  Search null else : 3
+2021-01-06 10:45:46.5731 INFO --  SearchBy - Name Search - o
+2021-01-06 10:45:46.6708 INFO --  First IF : 3
+2021-01-06 10:45:46.6957 INFO --  Searching : 3 Search o
+2021-01-06 10:45:46.7845 INFO --  Search null else : 3
+2021-01-06 11:00:46.9941 INFO --  Search null if : 0
+2021-01-06 11:01:02.1464 INFO --  Search null if : 0
+2021-01-06 11:01:07.5340 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 11:01:07.5579 INFO --  First IF : 3
+2021-01-06 11:01:07.6318 INFO --  Searching : 3 Search Mobile
+2021-01-06 11:01:07.6966 INFO --  Search null else : 3
+2021-01-06 11:35:55.9293 INFO --  Search null if : 0
+2021-01-06 11:36:23.3148 INFO --  SearchBy - Name Search - 
+2021-01-06 11:36:23.3357 INFO --  Search null if : 4
+2021-01-06 11:37:58.1816 INFO --  SearchBy - Name Search - 
+2021-01-06 11:38:44.5676 INFO --  Search null if : 4
+2021-01-06 11:40:26.5274 INFO --  SearchBy -  Search - 
+2021-01-06 11:40:33.6446 INFO --  Searching : 2  
+2021-01-06 11:42:03.0425 INFO --  Search null if : 0
+2021-01-06 11:42:39.0393 INFO --  Search null if : 0
+2021-01-06 11:43:18.9403 INFO --  SearchBy - Name Search - 
+2021-01-06 11:43:23.9657 INFO --  Deleting : 4 16,17
+2021-01-06 11:43:26.3298 INFO --  Deleting if : 4 16,17
+2021-01-06 11:43:26.3619 INFO --  Search null if : 4
+2021-01-06 11:46:10.4677 INFO --  Search null if : 0
+2021-01-06 11:46:31.1709 INFO --  Search null if : 0
+2021-01-06 11:46:42.8657 INFO --  SearchBy - Name Search - 
+2021-01-06 11:47:09.1981 INFO --  Deleting : 4 16
+2021-01-06 11:47:11.4654 INFO --  Deleting if : 4 16
+2021-01-06 11:47:11.4654 INFO --  Search null if : 4
+2021-01-06 11:50:21.2992 INFO --  SearchBy -  Search - 
+2021-01-06 11:50:21.3770 INFO --  Searching : 2  
+2021-01-06 11:51:23.2151 INFO --  Search null if : 0
+2021-01-06 11:51:30.4552 INFO --  SearchBy - Name Search - o
+2021-01-06 11:51:30.4850 INFO --  Searching : 3 Search o
+2021-01-06 11:51:30.6047 INFO --  Search null else : 3
+2021-01-06 11:51:33.7504 INFO --  SearchBy - Name Search - o
+2021-01-06 11:51:33.7524 INFO --  Deleting : 4 13
+2021-01-06 11:51:33.7524 INFO --  Deleting if : 4 13
+2021-01-06 11:51:33.7704 INFO --  Search null if : 4
+2021-01-06 12:20:08.2170 INFO --  User Logged in by username : rikin
+2021-01-06 12:20:09.8855 INFO --  Default Index operation.
+2021-01-06 12:20:10.2515 INFO --  Products sorted by : 
+2021-01-06 12:20:17.8133 INFO --  SearchBy - Name Search - 
+2021-01-06 12:20:17.8203 INFO --  Deleting product with Id : 16
+2021-01-06 12:20:17.8203 INFO --  Default Index operation.
+2021-01-06 12:20:17.8382 INFO --  Products sorted by : 
+2021-01-06 12:20:23.4113 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 12:20:23.4403 INFO --  Searching for : Mobile
+2021-01-06 12:20:23.5599 INFO --  Search results sent.
+2021-01-06 12:20:23.5599 INFO --  Products sorted by : 
+2021-01-06 12:20:38.3254 INFO --  SearchBy - Category Search - Laptop
+2021-01-06 12:20:38.3514 INFO --  Searching for : Laptop
+2021-01-06 12:20:38.4032 INFO --  Search results sent.
+2021-01-06 12:20:38.4262 INFO --  Products sorted by : 
+2021-01-06 12:20:39.5901 INFO --  Default Index operation.
+2021-01-06 12:20:39.5971 INFO --  Products sorted by : 
+2021-01-06 12:20:52.1435 INFO --  Default Index operation.
+2021-01-06 12:20:52.1435 INFO --  Products sorted by : 
+2021-01-06 12:25:15.0782 INFO --  User Logged in by username : rikin
+2021-01-06 12:25:16.2610 INFO --  Default Index operation.
+2021-01-06 12:25:16.6948 INFO --  Products sorted by : 
+2021-01-06 12:25:24.4561 ERROR --  Exception at Product Deletion : One or more errors occurred.
+2021-01-06 12:25:24.4840 INFO --  Default Index operation.
+2021-01-06 12:25:24.4920 INFO --  Products sorted by : 
+2021-01-06 12:35:41.3677 INFO --  User Logged in by username : rikin
+2021-01-06 12:35:43.3485 INFO --  Default Index operation.
+2021-01-06 12:35:43.9349 INFO --  Products sorted by : 
+2021-01-06 12:35:54.7942 INFO --  Default Index operation.
+2021-01-06 12:35:54.8122 INFO --  Products sorted by : 
+2021-01-06 12:36:01.7555 ERROR --  Exception at Product Deletion : One or more errors occurred.
+2021-01-06 12:36:01.7555 INFO --  Default Index operation.
+2021-01-06 12:36:01.8034 INFO --  Products sorted by : 
+2021-01-06 12:37:20.4059 INFO --  User Logged in by username : rikin
+2021-01-06 12:37:21.7413 INFO --  Default Index operation.
+2021-01-06 12:37:22.2888 INFO --  Products sorted by : 
+2021-01-06 12:37:28.8672 INFO --  Deleted product with ID : 12
+2021-01-06 12:37:28.8862 INFO --  Default Index operation.
+2021-01-06 12:37:28.9032 INFO --  Products sorted by : 
+2021-01-06 12:40:40.8105 INFO --  User Logged in by username : rikin
+2021-01-06 12:40:41.8536 INFO --  Default Index operation.
+2021-01-06 12:40:42.4400 INFO --  Products sorted by : 
+2021-01-06 12:41:27.2264 INFO --  User Logged in by username : rikin
+2021-01-06 12:41:28.7503 INFO --  Default Index operation.
+2021-01-06 12:41:29.2761 INFO --  Products sorted by : Name
+2021-01-06 12:41:45.5006 INFO --  Default Index operation.
+2021-01-06 12:41:45.5326 INFO --  Products sorted by : Name Desc
+2021-01-06 12:41:52.4590 INFO --  Default Index operation.
+2021-01-06 12:41:52.5334 INFO --  Products sorted by : Category
+2021-01-06 12:41:53.6109 INFO --  Default Index operation.
+2021-01-06 12:41:53.6188 INFO --  Products sorted by : Name
+2021-01-06 12:41:54.5287 INFO --  Default Index operation.
+2021-01-06 12:41:54.5536 INFO --  Products sorted by : Name Desc
+2021-01-06 12:41:55.6964 INFO --  Default Index operation.
+2021-01-06 12:41:55.7622 INFO --  Products sorted by : Name
+2021-01-06 12:41:56.4404 INFO --  Default Index operation.
+2021-01-06 12:41:56.4623 INFO --  Products sorted by : Name Desc
+2021-01-06 12:41:57.2927 INFO --  Default Index operation.
+2021-01-06 12:41:57.3026 INFO --  Products sorted by : Name
+2021-01-06 13:35:35.7484 INFO --  User Logged in by username : rikin
+2021-01-06 13:35:40.7540 INFO --  Default Index operation.
+2021-01-06 13:35:42.9312 INFO --  Products sorted by : Name
+2021-01-06 13:36:32.0511 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 13:36:41.0490 INFO --  Searching for : Mobile
+2021-01-06 13:36:56.3042 INFO --  Search results sent.
+2021-01-06 13:36:56.3541 INFO --  Products sorted by : Name
+2021-01-06 13:38:15.7066 INFO --  User Logged in by username : rikin
+2021-01-06 13:38:35.6398 INFO --  Default Index operation.
+2021-01-06 13:38:37.0182 INFO --  Products sorted by : Name
+2021-01-06 13:38:48.6610 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 13:39:01.8816 INFO --  Searching for : Mobile
+2021-01-06 13:39:12.1912 INFO --  Search results sent.
+2021-01-06 13:39:12.2059 INFO --  Products sorted by : Name
+2021-01-06 13:39:48.4033 INFO --  SearchBy - Category Search - Mobile
+2021-01-06 13:39:49.6599 INFO --  Searching for : Mobile
+2021-01-06 13:39:50.9445 INFO --  Search results sent.
+2021-01-06 13:39:50.9445 INFO --  Products sorted by : Name Desc
+2021-01-06 13:40:01.6140 INFO --  Default Index operation.
+2021-01-06 13:40:01.8245 INFO --  Products sorted by : Name
+2021-01-06 13:40:10.2479 INFO --  Default Index operation.
+2021-01-06 13:40:10.2889 INFO --  Products sorted by : Name
+2021-01-06 13:40:15.9825 INFO --  Default Index operation.
+2021-01-06 13:40:16.0380 INFO --  Products sorted by : Name
+2021-01-06 13:40:45.1606 INFO --  SearchBy - Name Search - 
+2021-01-06 13:40:49.3892 INFO --  Deleting product with Id : 17
+2021-01-06 13:40:49.3962 INFO --  Default Index operation.
+2021-01-06 13:40:49.4204 INFO --  Products sorted by : Name
+2021-01-06 13:51:14.8565 INFO --  Default Index operation.
+2021-01-06 13:55:40.0443 INFO --  Default Index operation.
+2021-01-06 13:55:49.0693 INFO --  Products sorted by : Name
+2021-01-06 13:56:06.1006 INFO --  User Logged in by username : rikin
+2021-01-06 13:56:07.4460 INFO --  Default Index operation.
+2021-01-06 13:56:07.5004 INFO --  Products sorted by : Name

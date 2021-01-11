@@ -1,0 +1,331 @@
+2020-12-31 09:53:12.3926 INFO --  Search null if : 0
+2020-12-31 09:53:54.1668 INFO --  Search null if : 0
+2020-12-31 09:54:02.6351 INFO --  Search null if : 0
+2020-12-31 09:54:11.5114 INFO --  Search null if : 0
+2020-12-31 09:54:14.6540 INFO --  Search null if : 0
+2020-12-31 09:54:19.2447 INFO --  Search null if : 0
+2020-12-31 09:54:21.6094 INFO --  Search null if : 0
+2020-12-31 09:54:23.1513 INFO --  Search null if : 0
+2020-12-31 09:54:24.6901 INFO --  Search null if : 0
+2020-12-31 09:54:26.8125 INFO --  Search null if : 0
+2020-12-31 09:54:27.8287 INFO --  Search null if : 0
+2020-12-31 09:54:28.7024 INFO --  Search null if : 0
+2020-12-31 09:54:29.2021 INFO --  Search null if : 0
+2020-12-31 09:54:38.3606 INFO --  First IF : 3
+2020-12-31 09:54:38.4164 INFO --  Searching : 3 Search Mobile
+2020-12-31 09:54:38.4643 INFO --  Search null else : 3
+2020-12-31 09:54:42.7189 INFO --  Search null if : 0
+2020-12-31 09:54:49.9645 INFO --  First IF : 3
+2020-12-31 09:54:49.9645 INFO --  Searching : 3 Search Laptop
+2020-12-31 09:54:49.9645 INFO --  Search null else : 3
+2020-12-31 09:54:53.9519 INFO --  Search null if : 0
+2020-12-31 09:54:55.7510 INFO --  Search null if : 0
+2020-12-31 09:55:05.2087 INFO --  First IF : 3
+2020-12-31 09:55:05.2087 INFO --  Searching : 3 Search Laptop
+2020-12-31 09:55:05.2087 INFO --  Search null else : 3
+2020-12-31 09:55:08.7383 INFO --  First IF : 3
+2020-12-31 09:55:08.7393 INFO --  Searching : 3 Search Mobile
+2020-12-31 09:55:08.7393 INFO --  Search null else : 3
+2020-12-31 09:55:14.9178 INFO --  Search null if : 0
+2020-12-31 09:55:21.8961 INFO --  Search null if : 0
+2020-12-31 09:55:44.2373 INFO --  First IF : 4
+2020-12-31 09:55:44.2373 INFO --  Deleting : 4 16
+2020-12-31 09:55:44.2373 INFO --  Deleting if : 4 16
+2020-12-31 09:55:44.2393 INFO --  Search null if : 4
+2020-12-31 09:56:22.8969 INFO --  First IF : 3
+2020-12-31 09:56:22.8969 INFO --  Searching : 3 Search o
+2020-12-31 09:56:22.9129 INFO --  Search null else : 3
+2020-12-31 09:59:34.7289 INFO --  Search null if : 0
+2020-12-31 09:59:42.5849 INFO --  Search null if : 0
+2020-12-31 09:59:43.6321 INFO --  Search null if : 0
+2020-12-31 09:59:44.6005 INFO --  Search null if : 0
+2020-12-31 09:59:45.1500 INFO --  Search null if : 0
+2020-12-31 09:59:49.1842 INFO --  First IF : 3
+2020-12-31 09:59:49.1842 INFO --  Searching : 3 Search Mobile
+2020-12-31 09:59:49.2341 INFO --  Search null else : 3
+2020-12-31 09:59:52.9133 INFO --  First IF : 3
+2020-12-31 09:59:52.9133 INFO --  Searching : 3 Search Mobile
+2020-12-31 09:59:52.9133 INFO --  Search null else : 3
+2020-12-31 09:59:57.2257 INFO --  Search null if : 0
+2020-12-31 10:00:04.5910 INFO --  First IF : 3
+2020-12-31 10:00:04.5910 INFO --  Searching : 3 Search Laptop
+2020-12-31 10:00:04.5990 INFO --  Search null else : 3
+2020-12-31 10:00:09.5248 INFO --  Search null if : 0
+2020-12-31 10:00:12.9806 INFO --  Search null if : 0
+2020-12-31 10:00:14.6351 INFO --  Search null if : 0
+2020-12-31 10:00:16.0573 INFO --  Search null if : 0
+2020-12-31 10:02:02.5365 INFO --  Search null if : 0
+2020-12-31 10:02:10.3965 INFO --  Search null if : 0
+2020-12-31 10:02:12.2206 INFO --  Search null if : 0
+2020-12-31 10:02:27.0549 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:02:27.0549 INFO --  First IF : 3
+2020-12-31 10:02:27.0549 INFO --  Searching : 3 Search Mobile
+2020-12-31 10:02:27.1177 INFO --  Search null else : 3
+2020-12-31 10:02:43.2915 INFO --  Search null if : 0
+2020-12-31 10:04:54.3259 INFO --  Search null if : 0
+2020-12-31 10:05:04.8707 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:04.8707 INFO --  First IF : 3
+2020-12-31 10:05:04.8707 INFO --  Searching : 3 Search Mobile
+2020-12-31 10:05:04.9256 INFO --  Search null else : 3
+2020-12-31 10:05:06.1363 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:06.1363 INFO --  First IF : 2
+2020-12-31 10:05:06.1363 INFO --  Search null if : 2
+2020-12-31 10:05:27.9051 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:27.9051 INFO --  First IF : 2
+2020-12-31 10:05:27.9051 INFO --  Search null if : 2
+2020-12-31 10:05:29.3871 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:29.3871 INFO --  First IF : 2
+2020-12-31 10:05:29.3871 INFO --  Search null if : 2
+2020-12-31 10:05:31.1724 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:31.1724 INFO --  First IF : 2
+2020-12-31 10:05:31.1724 INFO --  Search null if : 2
+2020-12-31 10:05:38.6733 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:38.6783 INFO --  First IF : 2
+2020-12-31 10:05:38.6783 INFO --  Search null if : 2
+2020-12-31 10:05:45.7663 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:45.7663 INFO --  First IF : 2
+2020-12-31 10:05:45.7663 INFO --  Search null if : 2
+2020-12-31 10:05:47.3461 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:05:47.3461 INFO --  First IF : 2
+2020-12-31 10:05:47.3481 INFO --  Search null if : 2
+2020-12-31 10:05:54.8221 INFO --  SearchBy - Category Search - Laptop
+2020-12-31 10:05:54.8221 INFO --  First IF : 3
+2020-12-31 10:05:54.8221 INFO --  Searching : 3 Search Laptop
+2020-12-31 10:05:54.8221 INFO --  Search null else : 3
+2020-12-31 10:05:58.9401 INFO --  SearchBy - Category Search - Laptop
+2020-12-31 10:05:58.9401 INFO --  First IF : 2
+2020-12-31 10:05:58.9421 INFO --  Search null if : 2
+2020-12-31 10:40:57.8339 INFO --  Search null if : 0
+2020-12-31 10:41:16.9963 INFO --  Search null if : 0
+2020-12-31 10:41:18.3768 INFO --  Search null if : 0
+2020-12-31 10:41:19.5691 INFO --  Search null if : 0
+2020-12-31 10:41:20.4732 INFO --  Search null if : 0
+2020-12-31 10:41:22.8415 INFO --  Search null if : 0
+2020-12-31 10:41:23.9346 INFO --  Search null if : 0
+2020-12-31 10:41:29.1499 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:29.1499 INFO --  First IF : 3
+2020-12-31 10:41:29.1499 INFO --  Searching : 3 Search Mobile
+2020-12-31 10:41:29.2028 INFO --  Search null else : 3
+2020-12-31 10:41:31.5124 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:31.5124 INFO --  First IF : 2
+2020-12-31 10:41:31.5124 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:31.5124 INFO --  Search null else : 2
+2020-12-31 10:41:33.6022 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:33.6022 INFO --  First IF : 2
+2020-12-31 10:41:33.6022 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:33.6022 INFO --  Search null else : 2
+2020-12-31 10:41:34.4031 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:34.4031 INFO --  First IF : 2
+2020-12-31 10:41:34.4031 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:34.4031 INFO --  Search null else : 2
+2020-12-31 10:41:35.3204 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:35.3204 INFO --  First IF : 2
+2020-12-31 10:41:35.3204 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:35.3204 INFO --  Search null else : 2
+2020-12-31 10:41:35.9397 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:35.9397 INFO --  First IF : 2
+2020-12-31 10:41:35.9397 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:35.9477 INFO --  Search null else : 2
+2020-12-31 10:41:37.7463 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:37.7463 INFO --  First IF : 2
+2020-12-31 10:41:37.7463 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:37.7463 INFO --  Search null else : 2
+2020-12-31 10:41:38.5372 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:38.5372 INFO --  First IF : 2
+2020-12-31 10:41:38.5392 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:38.5392 INFO --  Search null else : 2
+2020-12-31 10:41:39.9027 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:39.9027 INFO --  First IF : 2
+2020-12-31 10:41:39.9027 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:39.9027 INFO --  Search null else : 2
+2020-12-31 10:41:40.8482 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:40.8482 INFO --  First IF : 2
+2020-12-31 10:41:40.8482 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:40.8562 INFO --  Search null else : 2
+2020-12-31 10:41:42.1064 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:41:42.1064 INFO --  First IF : 2
+2020-12-31 10:41:42.1064 INFO --  Searching : 2  Mobile
+2020-12-31 10:41:42.1064 INFO --  Search null else : 2
+2020-12-31 10:41:48.3299 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:48.3299 INFO --  First IF : 3
+2020-12-31 10:41:48.3299 INFO --  Searching : 3 Search o
+2020-12-31 10:41:48.3469 INFO --  Search null else : 3
+2020-12-31 10:41:51.2868 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:51.2898 INFO --  First IF : 2
+2020-12-31 10:41:51.2898 INFO --  Searching : 2  o
+2020-12-31 10:41:51.2898 INFO --  Search null else : 2
+2020-12-31 10:41:53.2646 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:53.2646 INFO --  First IF : 2
+2020-12-31 10:41:53.2646 INFO --  Searching : 2  o
+2020-12-31 10:41:53.2736 INFO --  Search null else : 2
+2020-12-31 10:41:54.4916 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:54.4916 INFO --  First IF : 2
+2020-12-31 10:41:54.4926 INFO --  Searching : 2  o
+2020-12-31 10:41:54.4926 INFO --  Search null else : 2
+2020-12-31 10:41:55.2943 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:55.2943 INFO --  First IF : 2
+2020-12-31 10:41:55.2943 INFO --  Searching : 2  o
+2020-12-31 10:41:55.2943 INFO --  Search null else : 2
+2020-12-31 10:41:56.0543 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:56.0543 INFO --  First IF : 2
+2020-12-31 10:41:56.0543 INFO --  Searching : 2  o
+2020-12-31 10:41:56.0543 INFO --  Search null else : 2
+2020-12-31 10:41:56.8240 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:56.8240 INFO --  First IF : 2
+2020-12-31 10:41:56.8240 INFO --  Searching : 2  o
+2020-12-31 10:41:56.8240 INFO --  Search null else : 2
+2020-12-31 10:41:57.8323 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:57.8323 INFO --  First IF : 2
+2020-12-31 10:41:57.8323 INFO --  Searching : 2  o
+2020-12-31 10:41:57.8413 INFO --  Search null else : 2
+2020-12-31 10:41:59.6118 INFO --  SearchBy - Name Search - o
+2020-12-31 10:41:59.6118 INFO --  First IF : 2
+2020-12-31 10:41:59.6118 INFO --  Searching : 2  o
+2020-12-31 10:41:59.6198 INFO --  Search null else : 2
+2020-12-31 10:42:01.2655 INFO --  SearchBy - Name Search - o
+2020-12-31 10:42:01.2655 INFO --  First IF : 2
+2020-12-31 10:42:01.2655 INFO --  Searching : 2  o
+2020-12-31 10:42:01.2745 INFO --  Search null else : 2
+2020-12-31 10:42:04.3742 INFO --  SearchBy - Name Search - o
+2020-12-31 10:42:04.3742 INFO --  First IF : 2
+2020-12-31 10:42:04.3742 INFO --  Searching : 2  o
+2020-12-31 10:42:04.3862 INFO --  Search null else : 2
+2020-12-31 10:42:05.0831 INFO --  SearchBy - Name Search - o
+2020-12-31 10:42:05.0831 INFO --  First IF : 2
+2020-12-31 10:42:05.0831 INFO --  Searching : 2  o
+2020-12-31 10:42:05.0911 INFO --  Search null else : 2
+2020-12-31 10:42:05.9155 INFO --  SearchBy - Name Search - o
+2020-12-31 10:42:05.9155 INFO --  First IF : 2
+2020-12-31 10:42:05.9155 INFO --  Searching : 2  o
+2020-12-31 10:42:05.9155 INFO --  Search null else : 2
+2020-12-31 10:42:06.4201 INFO --  SearchBy - Name Search - o
+2020-12-31 10:42:06.4201 INFO --  First IF : 2
+2020-12-31 10:42:06.4201 INFO --  Searching : 2  o
+2020-12-31 10:42:06.4201 INFO --  Search null else : 2
+2020-12-31 10:42:15.1691 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:42:15.1691 INFO --  First IF : 3
+2020-12-31 10:42:15.1691 INFO --  Searching : 3 Search Mobile
+2020-12-31 10:42:15.1691 INFO --  Search null else : 3
+2020-12-31 10:42:19.7219 INFO --  Search null if : 0
+2020-12-31 10:42:34.8554 INFO --  SearchBy - Name Search - 
+2020-12-31 10:42:34.8554 INFO --  First IF : 3
+2020-12-31 10:42:34.8554 INFO --  Searching : 3  
+2020-12-31 10:44:04.7483 INFO --  Search null if : 0
+2020-12-31 10:44:19.9058 INFO --  SearchBy - Name Search - 
+2020-12-31 10:44:19.9058 INFO --  First IF : 3
+2020-12-31 10:44:19.9058 INFO --  Deleting : 3 
+2020-12-31 10:44:19.9058 INFO --  Deleting if : 3 
+2020-12-31 10:44:19.9138 INFO --  Search null if : 3
+2020-12-31 10:44:23.7146 INFO --  SearchBy - Name Search - o
+2020-12-31 10:44:23.7146 INFO --  First IF : 3
+2020-12-31 10:44:23.7146 INFO --  Searching : 3 Search o
+2020-12-31 10:44:23.7635 INFO --  Search null else : 3
+2020-12-31 10:44:26.0972 INFO --  SearchBy - Name Search - o
+2020-12-31 10:44:26.0972 INFO --  First IF : 3
+2020-12-31 10:44:26.0972 INFO --  Deleting : 3 
+2020-12-31 10:44:26.0972 INFO --  Deleting if : 3 
+2020-12-31 10:44:26.0972 INFO --  Search null if : 3
+2020-12-31 10:45:37.1033 INFO --  SearchBy - Name Search - O
+2020-12-31 10:45:37.1033 INFO --  First IF : 3
+2020-12-31 10:45:37.1033 INFO --  Searching : 3 Search O
+2020-12-31 10:45:37.1033 INFO --  Search null else : 3
+2020-12-31 10:45:40.4523 INFO --  SearchBy - Name Search - O
+2020-12-31 10:45:40.4523 INFO --  First IF : 3
+2020-12-31 10:45:40.4523 INFO --  Searching : 3 Search O
+2020-12-31 10:45:40.4613 INFO --  Search null else : 3
+2020-12-31 10:45:42.6195 INFO --  Search null if : 0
+2020-12-31 10:54:20.6243 INFO --  SearchBy - Name Search - R
+2020-12-31 10:54:20.6243 INFO --  First IF : 3
+2020-12-31 10:54:20.6243 INFO --  Searching : 3 Search R
+2020-12-31 10:54:21.0722 INFO --  Search null else : 3
+2020-12-31 10:54:22.9638 INFO --  SearchBy - Name Search - R
+2020-12-31 10:54:22.9638 INFO --  First IF : 2
+2020-12-31 10:54:22.9638 INFO --  Searching : 2  R
+2020-12-31 10:54:22.9810 INFO --  Search null else : 2
+2020-12-31 10:54:23.8885 INFO --  SearchBy - Name Search - R
+2020-12-31 10:54:23.8885 INFO --  First IF : 2
+2020-12-31 10:54:23.8885 INFO --  Searching : 2  R
+2020-12-31 10:54:23.9074 INFO --  Search null else : 2
+2020-12-31 10:54:24.7710 INFO --  SearchBy - Name Search - R
+2020-12-31 10:54:24.7730 INFO --  First IF : 2
+2020-12-31 10:54:24.7730 INFO --  Searching : 2  R
+2020-12-31 10:54:24.7730 INFO --  Search null else : 2
+2020-12-31 10:54:25.3914 INFO --  SearchBy - Name Search - R
+2020-12-31 10:54:25.3914 INFO --  First IF : 2
+2020-12-31 10:54:25.3914 INFO --  Searching : 2  R
+2020-12-31 10:54:25.4083 INFO --  Search null else : 2
+2020-12-31 10:54:26.9182 INFO --  Search null if : 0
+2020-12-31 10:54:34.8532 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 10:54:34.8532 INFO --  First IF : 3
+2020-12-31 10:54:34.8532 INFO --  Searching : 3 Search Mobile
+2020-12-31 10:54:34.9012 INFO --  Search null else : 3
+2020-12-31 10:54:36.0575 INFO --  Search null if : 0
+2020-12-31 10:54:40.8262 INFO --  SearchBy - Category Search - Laptop
+2020-12-31 10:54:40.8262 INFO --  First IF : 3
+2020-12-31 10:54:40.8262 INFO --  Searching : 3 Search Laptop
+2020-12-31 10:54:40.8593 INFO --  Search null else : 3
+2020-12-31 10:54:42.7253 INFO --  SearchBy - Category Search - Laptop
+2020-12-31 10:54:42.7263 INFO --  First IF : 2
+2020-12-31 10:54:42.7263 INFO --  Searching : 2  Laptop
+2020-12-31 10:54:42.7263 INFO --  Search null else : 2
+2020-12-31 10:54:43.7239 INFO --  SearchBy - Category Search - Laptop
+2020-12-31 10:54:43.7260 INFO --  First IF : 2
+2020-12-31 10:54:43.7260 INFO --  Searching : 2  Laptop
+2020-12-31 10:54:43.7260 INFO --  Search null else : 2
+2020-12-31 10:54:56.6369 INFO --  Search null if : 0
+2020-12-31 10:54:58.7820 INFO --  Search null if : 0
+2020-12-31 10:55:00.3832 INFO --  Search null if : 0
+2020-12-31 10:55:01.9323 INFO --  Search null if : 0
+2020-12-31 10:58:31.1382 INFO --  Search null if : 0
+2020-12-31 10:59:08.0356 INFO --  Search null if : 0
+2020-12-31 10:59:18.5897 INFO --  Search null if : 0
+2020-12-31 10:59:19.8156 INFO --  Search null if : 0
+2020-12-31 10:59:21.2082 INFO --  Search null if : 0
+2020-12-31 10:59:55.1469 INFO --  Search null if : 0
+2020-12-31 11:00:01.5681 INFO --  Search null if : 0
+2020-12-31 11:00:02.8310 INFO --  Search null if : 0
+2020-12-31 11:00:57.2535 INFO --  Search null if : 0
+2020-12-31 11:01:18.3737 INFO --  Search null if : 0
+2020-12-31 11:01:20.9310 INFO --  Search null if : 0
+2020-12-31 11:01:48.0277 INFO --  Search null if : 0
+2020-12-31 11:02:07.3249 INFO --  Search null if : 0
+2020-12-31 11:02:10.8803 INFO --  Search null if : 0
+2020-12-31 11:02:15.1524 INFO --  Search null if : 0
+2020-12-31 11:02:22.6369 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 11:02:22.6579 INFO --  First IF : 3
+2020-12-31 11:02:22.6579 INFO --  Searching : 3 Search Mobile
+2020-12-31 11:02:22.9032 INFO --  Search null else : 3
+2020-12-31 11:02:27.1368 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 11:02:27.1368 INFO --  First IF : 2
+2020-12-31 11:02:27.1368 INFO --  Searching : 2  Mobile
+2020-12-31 11:02:27.1698 INFO --  Search null else : 2
+2020-12-31 11:02:28.5181 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 11:02:28.5241 INFO --  First IF : 2
+2020-12-31 11:02:28.5241 INFO --  Searching : 2  Mobile
+2020-12-31 11:02:28.5670 INFO --  Search null else : 2
+2020-12-31 11:02:31.3091 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 11:02:31.3091 INFO --  First IF : 2
+2020-12-31 11:02:31.3091 INFO --  Searching : 2  Mobile
+2020-12-31 11:02:31.3409 INFO --  Search null else : 2
+2020-12-31 11:02:32.3093 INFO --  SearchBy - Category Search - Mobile
+2020-12-31 11:02:32.3093 INFO --  First IF : 2
+2020-12-31 11:02:32.3093 INFO --  Searching : 2  Mobile
+2020-12-31 11:02:32.3442 INFO --  Search null else : 2
+2020-12-31 11:02:38.3951 INFO --  SearchBy - Name Search - Mobile
+2020-12-31 11:02:38.4000 INFO --  First IF : 3
+2020-12-31 11:02:38.4000 INFO --  Searching : 3 Search Mobile
+2020-12-31 11:02:38.4932 INFO --  Search null else : 3
+2020-12-31 11:07:07.9311 INFO --  SearchBy - Name Search - Mobile
+2020-12-31 11:07:07.9311 INFO --  First IF : 3
+2020-12-31 11:07:07.9311 INFO --  Searching : 3 Search Mobile
+2020-12-31 11:07:07.9651 INFO --  Search null else : 3
+2020-12-31 11:07:16.9789 INFO --  Search null if : 0
+2020-12-31 11:07:20.9164 INFO --  SearchBy - Name Search - 
+2020-12-31 11:07:20.9164 INFO --  First IF : 3
+2020-12-31 11:07:20.9164 INFO --  Searching : 3 Search 
+2020-12-31 11:08:16.9392 INFO --  SearchBy - Name Search - 
+2020-12-31 11:11:09.8344 INFO --  First IF : 3
+2020-12-31 11:12:20.5193 INFO --  Search null if : 0
+2020-12-31 11:12:45.8995 INFO --  SearchBy - Name Search - 
+2020-12-31 11:12:45.9144 INFO --  First IF : 3
+2020-12-31 11:12:45.9294 INFO --  Searching : 3 Search 

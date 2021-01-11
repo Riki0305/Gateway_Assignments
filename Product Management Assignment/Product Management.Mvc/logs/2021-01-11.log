@@ -1,0 +1,88 @@
+2021-01-11 19:19:19.2833 INFO --  Default Index operation.
+2021-01-11 19:19:40.8538 INFO --  Products sorted by : Name
+2021-01-11 19:26:43.3391 INFO --  User Logged in by username : rikin
+2021-01-11 19:27:03.2219 INFO --  Default Index operation.
+2021-01-11 19:27:03.3106 INFO --  Products sorted by : Name
+2021-01-11 19:27:24.3584 INFO --  Default Index operation.
+2021-01-11 19:27:24.3726 INFO --  Products sorted by : Name Desc
+2021-01-11 19:27:26.0312 INFO --  Default Index operation.
+2021-01-11 19:27:26.0526 INFO --  Products sorted by : Name
+2021-01-11 19:27:28.2350 INFO --  Default Index operation.
+2021-01-11 19:27:28.2520 INFO --  Products sorted by : Name
+2021-01-11 19:27:32.7070 ERROR --  Exception at Product Deletion : Could not find a part of the path 'C:\Users\Rikin\source\repos\Product Management\Product Management.Mvc\Product\Delete\jsjak'.
+2021-01-11 19:27:32.7230 INFO --  Default Index operation.
+2021-01-11 19:27:32.7363 INFO --  Products sorted by : Name
+2021-01-11 19:27:34.9951 INFO --  Default Index operation.
+2021-01-11 19:27:35.0089 INFO --  Products sorted by : Name
+2021-01-11 19:27:36.7462 INFO --  Default Index operation.
+2021-01-11 19:27:36.7592 INFO --  Products sorted by : Name
+2021-01-11 19:27:38.3230 INFO --  Default Index operation.
+2021-01-11 19:27:38.3493 INFO --  Products sorted by : Name
+2021-01-11 19:27:51.5133 INFO --  Default Index operation.
+2021-01-11 19:27:51.5772 INFO --  Products sorted by : Category
+2021-01-11 19:27:56.8750 INFO --  Default Index operation.
+2021-01-11 19:27:56.8980 INFO --  Products sorted by : Category
+2021-01-11 19:28:40.0896 ERROR --  Exception at Product Deletion : Could not find a part of the path 'C:\Users\Rikin\source\repos\Product Management\Product Management.Mvc\Product\Delete\jsjak'.
+2021-01-11 19:28:40.1014 INFO --  Default Index operation.
+2021-01-11 19:28:40.1173 INFO --  Products sorted by : Name
+2021-01-11 19:28:42.7623 INFO --  Default Index operation.
+2021-01-11 19:28:42.7803 INFO --  Products sorted by : Name
+2021-01-11 19:28:52.5900 INFO --  SearchBy - Name Search - 
+2021-01-11 19:28:52.6000 INFO --  Deleting products with Ids : 41
+2021-01-11 19:28:53.0199 INFO --  Default Index operation.
+2021-01-11 19:28:53.0379 INFO --  Products sorted by : Name
+2021-01-11 19:29:39.0484 INFO --  Default Index operation.
+2021-01-11 19:29:39.0643 INFO --  Products sorted by : Name
+2021-01-11 19:31:18.8276 INFO --  Default Index operation.
+2021-01-11 19:31:18.8455 INFO --  Products sorted by : Name
+2021-01-11 19:31:20.4124 INFO --  Default Index operation.
+2021-01-11 19:31:20.4264 INFO --  Products sorted by : Name
+2021-01-11 19:31:22.3153 INFO --  Default Index operation.
+2021-01-11 19:31:22.3362 INFO --  Products sorted by : Name
+2021-01-11 19:31:24.4636 INFO --  Default Index operation.
+2021-01-11 19:31:24.4835 INFO --  Products sorted by : Name
+2021-01-11 19:31:25.9246 INFO --  Default Index operation.
+2021-01-11 19:31:25.9387 INFO --  Products sorted by : Name
+2021-01-11 19:31:29.1300 INFO --  Default Index operation.
+2021-01-11 19:31:29.1440 INFO --  Products sorted by : Name
+2021-01-11 19:31:31.4189 INFO --  Default Index operation.
+2021-01-11 19:31:31.4349 INFO --  Products sorted by : Name
+2021-01-11 19:31:32.9039 INFO --  Default Index operation.
+2021-01-11 19:31:32.9209 INFO --  Products sorted by : Name
+2021-01-11 19:31:34.4239 INFO --  Default Index operation.
+2021-01-11 19:31:34.4480 INFO --  Products sorted by : Name Desc
+2021-01-11 19:31:37.2643 INFO --  Default Index operation.
+2021-01-11 19:31:37.2782 INFO --  Products sorted by : Category
+2021-01-11 19:31:39.4494 INFO --  Default Index operation.
+2021-01-11 19:31:39.4634 INFO --  Products sorted by : Category
+2021-01-11 19:31:41.3643 INFO --  Default Index operation.
+2021-01-11 19:31:41.3783 INFO --  Products sorted by : Category
+2021-01-11 19:31:44.7034 INFO --  Deleted product with ID : 35
+2021-01-11 19:31:44.7203 INFO --  Default Index operation.
+2021-01-11 19:31:44.7496 INFO --  Products sorted by : Name
+2021-01-11 19:31:58.5893 INFO --  Default Index operation.
+2021-01-11 19:31:58.6023 INFO --  Products sorted by : Category
+2021-01-11 19:31:59.8259 INFO --  Default Index operation.
+2021-01-11 19:31:59.8429 INFO --  Products sorted by : Name
+2021-01-11 19:32:02.1358 INFO --  Default Index operation.
+2021-01-11 19:32:02.1518 INFO --  Products sorted by : Name Desc
+2021-01-11 19:32:03.5570 INFO --  Default Index operation.
+2021-01-11 19:32:03.5760 INFO --  Products sorted by : Name
+2021-01-11 19:32:12.2368 INFO --  Default Index operation.
+2021-01-11 19:32:12.2527 INFO --  Products sorted by : Name
+2021-01-11 19:51:02.5971 INFO --  User Logged in by username : rikin
+2021-01-11 19:52:29.7825 INFO --  New product added by name : Redmi Note 5 Pro
+2021-01-11 19:52:29.8555 INFO --  Default Index operation.
+2021-01-11 19:52:30.2343 INFO --  Products sorted by : Name
+2021-01-11 19:52:34.8171 INFO --  Default Index operation.
+2021-01-11 19:52:34.8370 INFO --  Products sorted by : Name
+2021-01-11 19:52:43.6157 INFO --  Updated product by Id : 42
+2021-01-11 19:52:43.6285 INFO --  Default Index operation.
+2021-01-11 19:52:43.6444 INFO --  Products sorted by : Name
+2021-01-11 19:52:46.0310 INFO --  Default Index operation.
+2021-01-11 19:52:46.0669 INFO --  Products sorted by : Name
+2021-01-11 19:52:50.1580 INFO --  Deleted product with ID : 42
+2021-01-11 19:52:50.1740 INFO --  Default Index operation.
+2021-01-11 19:52:50.1740 INFO --  Products sorted by : Name
+2021-01-11 19:52:53.1320 INFO --  Default Index operation.
+2021-01-11 19:52:53.1629 INFO --  Products sorted by : Name

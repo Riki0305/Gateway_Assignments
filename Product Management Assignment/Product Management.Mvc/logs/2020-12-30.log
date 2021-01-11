@@ -1,0 +1,44 @@
+2020-12-30 17:06:17.4708 INFO --  Search null if : 0
+2020-12-30 17:07:10.5404 INFO --  First IF : 3
+2020-12-30 17:07:10.5404 INFO --  Searching : 3 Search Mobile
+2020-12-30 17:07:10.6262 INFO --  Search null else : 3
+2020-12-30 17:09:03.3499 INFO --  First IF : 2
+2020-12-30 17:09:03.3499 INFO --  Search null if : 2
+2020-12-30 17:12:35.8976 INFO --  Search null if : 0
+2020-12-30 17:12:58.7588 INFO --  First IF : 2
+2020-12-30 17:12:58.7588 INFO --  Search null if : 2
+2020-12-30 17:14:21.6015 INFO --  Search null if : 0
+2020-12-30 17:14:36.7493 INFO --  First IF : 2
+2020-12-30 17:14:36.7493 INFO --  Search null if : 2
+2020-12-30 17:16:04.3401 INFO --  Search null if : 0
+2020-12-30 17:16:40.1619 INFO --  Search null if : 0
+2020-12-30 17:17:02.5977 INFO --  Search null if : 0
+2020-12-30 17:17:04.0183 INFO --  First IF : 3
+2020-12-30 17:17:04.0183 INFO --  Search null if : 3
+2020-12-30 17:17:23.4840 INFO --  First IF : 3
+2020-12-30 17:17:23.4840 INFO --  Search null if : 3
+2020-12-30 17:17:24.9185 INFO --  First IF : 3
+2020-12-30 17:17:24.9185 INFO --  Search null if : 3
+2020-12-30 17:17:25.9538 INFO --  First IF : 3
+2020-12-30 17:17:25.9538 INFO --  Search null if : 3
+2020-12-30 17:17:26.8193 INFO --  First IF : 3
+2020-12-30 17:17:26.8193 INFO --  Search null if : 3
+2020-12-30 17:18:35.6312 INFO --  First IF : 3
+2020-12-30 17:18:35.6486 INFO --  Search null if : 3
+2020-12-30 17:19:54.8193 INFO --  First IF : 3
+2020-12-30 17:19:54.8193 INFO --  Search null if : 3
+2020-12-30 17:20:41.9965 INFO --  Search null if : 0
+2020-12-30 17:23:23.3358 INFO --  Search null if : 0
+2020-12-30 17:23:38.7344 INFO --  First IF : 3
+2020-12-30 17:23:38.7344 INFO --  Deleting : 3 
+2020-12-30 17:23:38.7344 INFO --  Deleting if : 3 
+2020-12-30 17:24:44.3339 INFO --  Search null if : 0
+2020-12-30 17:25:28.6298 INFO --  First IF : 3
+2020-12-30 17:25:28.6298 INFO --  Deleting : 3 
+2020-12-30 17:25:28.6298 INFO --  Deleting if : 3 
+2020-12-30 17:25:28.6298 INFO --  Search null if : 3
+2020-12-30 18:59:32.4542 INFO --  Search null if : 0
+2020-12-30 19:00:06.0662 INFO --  First IF : 3
+2020-12-30 19:00:06.0712 INFO --  Deleting : 3 
+2020-12-30 19:00:06.0712 INFO --  Deleting if : 3 
+2020-12-30 19:00:06.0712 INFO --  Search null if : 3
