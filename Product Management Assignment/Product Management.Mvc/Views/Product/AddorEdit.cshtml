@@ -1,0 +1,250 @@
+﻿@model Product_Management.ViewModels.ProductFormViewModel
+
+@{
+    ViewBag.Title = "AddorEdit";
+    if (Session["username"] == null)
+    {
+        Response.Redirect("~/Home/Index");
+    }
+}
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<h2 class="text-center">Add Product</h2>
+
+
+@using (Html.BeginForm("AddorEdit", "product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @*@Html.AntiForgeryToken()*@
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    @Html.HiddenFor(model => model.product.Id, new { id = "modelId" })
+    @Html.HiddenFor(model => model.product.SmallImagePath, new { id = "smallimagepath" })
+
+    <div class="row">
+        <div class="form-group col-md-4">
+            @Html.LabelFor(model => model.product.Name, htmlAttributes: new { @class = "control-label col-md-12" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.product.Name, new { htmlAttributes = new { @class = "form-control col-md-12" } })
+                @Html.ValidationMessageFor(model => model.product.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-md-4">
+            @Html.LabelFor(model => model.product.CategoryId, htmlAttributes: new { @class = "control-label col-md-12" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.product.CategoryId, new SelectList(Model.category, "Id", "Name"), "Select Category", new { @class = "form-control col-md-12" })
+                @Html.ValidationMessageFor(model => model.product.CategoryId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-md-4">
+            @Html.LabelFor(model => model.product.Price, htmlAttributes: new { @class = "control-label col-md-12" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.product.Price, new { htmlAttributes = new { @class = "form-control col-md-12" } })
+                @Html.ValidationMessageFor(model => model.product.Price, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-4">
+            @Html.LabelFor(model => model.product.ShortDesc, htmlAttributes: new { @class = "control-label col-md-12" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.product.ShortDesc, new { @class = "form-control col-md-12", rows = "5" })
+                @Html.ValidationMessageFor(model => model.product.ShortDesc, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+
+        <div class="form-group col-md-8">
+            @Html.LabelFor(model => model.product.LongDesc, htmlAttributes: new { @class = "control-label col-md-12" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.product.LongDesc, new { @class = "form-control col-md-12", rows = "5" })
+                @Html.ValidationMessageFor(model => model.product.LongDesc, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    @if (Model.product.Id == 0)
+    {
+        <div class="row">
+            <div class="form-group col-md-4">
+                @Html.LabelFor(model => model.product.SmallImagePath, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    <input type="file" name="smallImage" id="smallImage" onchange="validateSmallImg(this.value)" /><br />
+                    @Html.ValidationMessage("smallImage", "", new { @class = "text-danger", id = "simageText" })
+                    @*@Html.ValidationMessageFor(model => model.product.SmallImagePath, "", new { @class = "text-danger" })*@
+                </div>
+            </div>
+
+            <div class="form-group col-md-4">
+                @Html.LabelFor(model => model.product.LongImagePath, htmlAttributes: new { @class = "control-label col-md-12" })
+                <div class="col-md-10">
+                    <input type="file" name="largeImage" id="largeImage" onchange="validateLargeImg(this.value)" /><br />
+                    @Html.ValidationMessage("largeImage", "", new { @class = "text-danger", id = "limageText" })
+                    @*@Html.ValidationMessageFor(model => model.product.LongImagePath, "", new { @class = "text-danger" })*@
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        
+        <div class="row">
+            <div class="form-group col-md-4">
+              
+                @Html.LabelFor(model => model.product.SmallImagePath, htmlAttributes: new { @class = "control-label col-md-12" })
+                <img src="@Url.Content(Model.product.SmallImagePath)" width="50%" style="margin:10px auto;"/>
+                <div class="col-md-10">
+                    <input type="file" name="smallImageEdit" id="smallImageEdit" onchange="validateSmallImgEdit(this.value)" /><br />
+                    @Html.ValidationMessage("smallImageEdit", "", new { @class = "text-danger", id = "simageText" })
+                </div>
+            </div>
+
+            <div class="form-group col-md-4">
+                @Html.LabelFor(model => model.product.LongImagePath, htmlAttributes: new { @class = "control-label col-md-12" })
+                <img src="@Url.Content(Model.product.LongImagePath)" width="50%" style="margin:10px auto;" />
+                <div class="col-md-10">
+                    <input type="file" name="largeImageEdit" id="largeImageEdit" onchange="validateLargeImgEdit(this.value)" /><br />
+                    @Html.ValidationMessage("largeImageEdit", "", new { @class = "text-danger", id = "limageText" })
+                    
+                </div>
+            </div>
+        </div>
+    }
+
+
+    <br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save product" id="btnSubmit" class="btn orangebg" />
+        </div>
+    </div>
+</div>
+<br />
+}
+
+<script>
+    var flag = 0;
+    $(function () {
+
+        $("#btnSubmit").click(function () {
+            if ($("#modelId").val() == 0) {
+                if ($("#smallImage").val() == "")
+                    $("#simageText").text("The small Image field is required");
+                if ($("#largeImage").val() == "")
+                    $("#limageText").text("The large Image field is required");
+            }
+          
+
+        })
+    })
+    function validateSmallImg(imageFile) {
+        console.log("image  " + imageFile);
+       
+            var ext = imageFile.split(".");
+            ext = ext[ext.length - 1].toLowerCase();
+            //console.log(ext);
+            var imgType = ["jpg", "jpeg", "png", "gif","jfif"];
+            if (!imgType.includes(ext)) {
+                $("#simageText").text("Only image files are allowed");
+                flag = 1;
+            }
+            else {
+                $("#simageText").text("");
+                flag = 0;
+            }
+        
+
+        var fi = document.getElementById("smallImage");
+        if (fi.files.length > 0) {
+            const fsize = fi.files.item(0).size;
+            const file = Math.round((fsize / 1024));
+            if (file >= 2048) {
+                $("#simageText").text("File size should be less then 2MB.");
+                console.log("max then 2048");
+            }
+
+
+            //alert(file);
+        }
+    }
+    function validateLargeImg(imageFile) {
+        console.log("image  " + imageFile);
+       
+        if (imageFile == "")
+            $("#limageText").text("The large Image field is required");
+        else {
+            var ext = imageFile.split(".");
+            ext = ext[ext.length - 1].toLowerCase();
+            //console.log(ext);
+            var imgType = ["jpg", "jpeg", "png", "gif", "jfif"];
+            if (!imgType.includes(ext)) {
+                $("#limageText").text("Only image files are allowed");
+            }
+            else {
+                $("#limageText").text("");
+            }
+        }
+        
+    }
+
+    //for editing operation
+    function validateSmallImgEdit(imageFile) {
+        console.log("image  " + imageFile);
+        if (imageFile == "")
+            $("#simageText").text("The small Image field is required");
+        else {
+            var ext = imageFile.split(".");
+            ext = ext[ext.length - 1].toLowerCase();
+            //console.log(ext);
+            var imgType = ["jpg", "jpeg", "png", "gif", "jfif"];
+            if (!imgType.includes(ext)) {
+                $("#simageText").text("Only image files are allowed");
+            }
+            else {
+                $("#simageText").text("");
+            }
+        }
+
+        var fi = document.getElementById("smallImage");
+        if (fi.files.length > 0) {
+            const fsize = fi.files.item(0).size;
+            const file = Math.round((fsize / 1024));
+            if (file >= 2048) {
+                $("#simageText").text("File size should be less then 2MB.");
+                console.log("max then 2048");
+            }
+
+
+            //alert(file);
+        }
+    }
+    function validateLargeImgEdit(imageFile) {
+        console.log("image  " + imageFile);
+       
+            var ext = imageFile.split(".");
+            ext = ext[ext.length - 1].toLowerCase();
+            //console.log(ext);
+            var imgType = ["jpg", "jpeg", "png", "gif", "jfif"];
+            if (!imgType.includes(ext)) {
+                $("#limageText").text("Only image files are allowed");
+            }
+            else {
+                $("#limageText").text("");
+            }
+        
+    }
+</script>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

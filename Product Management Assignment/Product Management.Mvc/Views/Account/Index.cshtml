@@ -1,0 +1,133 @@
+﻿@model Product_Management.Models.User
+
+@{
+    ViewBag.Title = "Index";
+    if (Session["username"] == null)
+    {
+        Response.Redirect("~/Home/Index");
+    }
+}
+<br />
+<br />
+<div class="container">
+
+    <h1>Welcome @Html.DisplayFor(model => model.Username)</h1>
+    <hr />
+    <h4>User Profile</h4>
+    <br />
+    <br />
+    <div class="welcome-table container">
+
+        <div>
+            <dl class="row">
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </dt>
+
+                <dd class="col-md-3">
+                    @Html.DisplayFor(model => model.FirstName)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.LastName)
+                </dt>
+
+                <dd class="col-md-3">
+                    @Html.DisplayFor(model => model.LastName)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Username)
+                </dt>
+
+                <dd class="col-md-3">
+                    @Html.DisplayFor(model => model.Username)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+
+                <dd class="col-md-3">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+
+                <dt class="col-md-3">
+                    @Html.DisplayNameFor(model => model.Phone)
+                </dt>
+
+                <dd class="col-md-3">
+                    @Html.DisplayFor(model => model.Phone)
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+@*<div>
+
+        <hr />
+        <dl class="dl-horizontal">
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.Phone)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.Phone)
+            </dd>
+
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+
+            <dt class="col-md-3">
+                @Html.DisplayNameFor(model => model.ConfirmPassword)
+            </dt>
+
+            <dd class="col-md-3">
+                @Html.DisplayFor(model => model.ConfirmPassword)
+            </dd>
+
+        </dl>
+    </div>*@
+@*<p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>*@
+
+
