@@ -1,0 +1,347 @@
+2021-01-09 10:12:49.6233 INFO --  All products sent successfully.
+2021-01-09 10:23:37.3028 INFO --  All products sent successfully.
+2021-01-09 10:24:32.5584 INFO --  All products sent successfully.
+2021-01-09 10:24:34.5788 INFO --  All products sent successfully.
+2021-01-09 10:24:36.9656 INFO --  All products sent successfully.
+2021-01-09 10:24:40.4781 INFO --  id : 13 found in database
+2021-01-09 10:24:41.1053 INFO --  All products sent successfully.
+2021-01-09 10:25:00.5248 INFO --  All products sent successfully.
+2021-01-09 10:25:33.7514 INFO --  id : 13 found in database
+2021-01-09 10:29:14.4203 INFO --  All products sent successfully.
+2021-01-09 10:29:18.6153 INFO --  id : 13 found in database
+2021-01-09 10:31:01.1150 INFO --  All products sent successfully.
+2021-01-09 10:31:05.0446 INFO --  id : 13 found in database
+2021-01-09 10:31:25.2846 INFO --  Product Id : 13 removed.
+2021-01-09 10:31:25.3026 INFO --  All products sent successfully.
+2021-01-09 10:31:52.0402 INFO --  id : 15 found in database
+2021-01-09 10:31:52.0582 INFO --  Product Id : 15 removed.
+2021-01-09 10:31:52.0742 INFO --  All products sent successfully.
+2021-01-09 10:32:01.6221 INFO --  Product Id : 14 removed.
+2021-01-09 10:32:01.6330 INFO --  Product Id : 28 removed.
+2021-01-09 10:32:01.8288 INFO --  All products sent successfully.
+2021-01-09 10:32:07.8892 INFO --  Product Id : 29 removed.
+2021-01-09 10:32:07.8892 INFO --  Product Id : 20 removed.
+2021-01-09 10:32:07.9061 INFO --  All products sent successfully.
+2021-01-09 10:32:11.7219 INFO --  Product Id : 21 removed.
+2021-01-09 10:32:11.7219 INFO --  All products sent successfully.
+2021-01-09 10:33:03.3844 INFO --  Product Id : 27 removed.
+2021-01-09 10:33:03.3924 INFO --  Product Id : 26 removed.
+2021-01-09 10:33:03.3924 INFO --  Product Id : 18 removed.
+2021-01-09 10:33:03.4044 INFO --  Product Id : 19 removed.
+2021-01-09 10:33:03.4044 INFO --  All products sent successfully.
+2021-01-09 10:33:07.5763 INFO --  Search By category : Mobile
+2021-01-09 10:33:09.6637 INFO --  All products sent successfully.
+2021-01-09 10:34:42.8535 INFO --  Product saved with name : Macbook Pro
+2021-01-09 10:34:42.9343 INFO --  All products sent successfully.
+2021-01-09 10:35:39.4030 INFO --  Product saved with name : Boat Bassheads 451
+2021-01-09 10:35:39.4199 INFO --  All products sent successfully.
+2021-01-09 10:37:54.9770 INFO --  Product saved with name : Samsung Galaxy J7 Pro
+2021-01-09 10:37:55.0219 INFO --  All products sent successfully.
+2021-01-09 10:39:07.7247 INFO --  id : 32 found in database
+2021-01-09 10:39:22.0936 INFO --  All products sent successfully.
+2021-01-09 10:39:26.8752 INFO --  All products sent successfully.
+2021-01-09 10:42:20.7832 INFO --  Product saved with name : Asus Rog Strix G17
+2021-01-09 10:42:20.8633 INFO --  All products sent successfully.
+2021-01-09 10:43:26.1715 INFO --  Product saved with name : Oneplus Bullet Wireless Z
+2021-01-09 10:43:26.2300 INFO --  All products sent successfully.
+2021-01-09 10:43:30.7500 INFO --  All products sent successfully.
+2021-01-09 10:43:32.3921 INFO --  All products sent successfully.
+2021-01-09 10:44:42.4655 INFO --  Product saved with name : Samsung Galaxy M31 
+2021-01-09 10:44:42.4984 INFO --  All products sent successfully.
+2021-01-09 10:44:45.5652 INFO --  All products sent successfully.
+2021-01-09 10:45:04.6097 INFO --  All products sent successfully.
+2021-01-09 10:45:07.7687 INFO --  All products sent successfully.
+2021-01-09 10:46:04.2416 INFO --  Product saved with name : Redmi Note 9 Pro
+2021-01-09 10:46:04.3413 INFO --  All products sent successfully.
+2021-01-09 10:46:14.2093 INFO --  All products sent successfully.
+2021-01-09 10:46:16.8382 INFO --  All products sent successfully.
+2021-01-09 10:47:57.1074 INFO --  Product saved with name : OnePlus 8T 5G 
+2021-01-09 10:47:57.1462 INFO --  All products sent successfully.
+2021-01-09 10:47:59.8638 INFO --  All products sent successfully.
+2021-01-09 10:48:03.4499 INFO --  All products sent successfully.
+2021-01-09 10:48:11.0456 INFO --  All products sent successfully.
+2021-01-09 10:52:09.8678 INFO --  Product saved with name : Skullcandy Sesh True Wireless Earbuds
+2021-01-09 10:52:09.8848 INFO --  All products sent successfully.
+2021-01-09 10:52:12.3763 INFO --  All products sent successfully.
+2021-01-09 10:52:14.2227 INFO --  All products sent successfully.
+2021-01-09 10:52:17.4264 INFO --  All products sent successfully.
+2021-01-09 10:52:21.0978 INFO --  All products sent successfully.
+2021-01-09 15:25:54.4241 INFO --  All products sent successfully.
+2021-01-09 15:25:56.4256 INFO --  id : 33 found in database
+2021-01-09 15:26:34.7687 INFO --  id : 33 found in database
+2021-01-09 15:27:01.3868 INFO --  id : 33 found in database
+2021-01-09 15:27:43.9228 INFO --  id : 33 found in database
+2021-01-09 15:27:53.9288 INFO --  id : 33 found in database
+2021-01-09 15:28:07.3871 INFO --  id : 33 found in database
+2021-01-09 15:28:39.7425 INFO --  id : 33 found in database
+2021-01-09 15:28:49.9386 INFO --  id : 33 found in database
+2021-01-09 15:29:11.7015 INFO --  id : 33 found in database
+2021-01-09 15:29:19.4955 INFO --  id : 33 found in database
+2021-01-09 15:29:25.9270 INFO --  id : 33 found in database
+2021-01-09 15:29:28.0625 INFO --  id : 33 found in database
+2021-01-09 15:29:33.3549 INFO --  id : 33 found in database
+2021-01-09 15:31:09.7984 INFO --  id : 33 found in database
+2021-01-09 15:31:45.4260 INFO --  id : 33 found in database
+2021-01-09 15:31:51.6402 INFO --  id : 33 found in database
+2021-01-09 15:32:50.1418 INFO --  id : 33 found in database
+2021-01-09 15:33:00.0798 INFO --  id : 33 found in database
+2021-01-09 15:33:07.8764 INFO --  id : 33 found in database
+2021-01-09 15:33:21.3944 INFO --  id : 33 found in database
+2021-01-09 15:37:29.7299 INFO --  id : 33 found in database
+2021-01-09 15:37:56.3969 INFO --  id : 33 found in database
+2021-01-09 15:38:09.2684 INFO --  All products sent successfully.
+2021-01-09 15:38:10.8081 INFO --  id : 33 found in database
+2021-01-09 15:39:54.1050 INFO --  id : 33 found in database
+2021-01-09 15:40:02.3145 INFO --  id : 33 found in database
+2021-01-09 15:40:18.1886 INFO --  id : 33 found in database
+2021-01-09 15:41:24.7311 INFO --  id : 33 found in database
+2021-01-09 15:41:33.3590 INFO --  id : 33 found in database
+2021-01-09 15:41:50.8979 INFO --  id : 33 found in database
+2021-01-09 15:42:29.1805 INFO --  id : 33 found in database
+2021-01-09 15:42:53.6360 INFO --  id : 33 found in database
+2021-01-09 15:43:14.5042 INFO --  id : 33 found in database
+2021-01-09 15:43:25.1557 INFO --  id : 33 found in database
+2021-01-09 15:44:12.7328 INFO --  id : 33 found in database
+2021-01-09 15:44:34.0956 INFO --  id : 33 found in database
+2021-01-09 15:45:13.9950 INFO --  id : 33 found in database
+2021-01-09 15:45:21.5068 INFO --  id : 33 found in database
+2021-01-09 15:45:30.9478 INFO --  id : 33 found in database
+2021-01-09 15:45:49.8841 INFO --  id : 33 found in database
+2021-01-09 15:46:02.8449 INFO --  All products sent successfully.
+2021-01-09 15:46:05.9426 INFO --  id : 33 found in database
+2021-01-09 15:46:19.9145 INFO --  id : 33 found in database
+2021-01-09 15:46:34.9455 INFO --  id : 33 found in database
+2021-01-09 15:49:17.4925 INFO --  id : 33 found in database
+2021-01-09 15:59:39.4677 INFO --  id : 33 found in database
+2021-01-09 16:05:46.0482 INFO --  All products sent successfully.
+2021-01-09 16:05:47.7107 INFO --  id : 33 found in database
+2021-01-09 16:05:50.5302 INFO --  All products sent successfully.
+2021-01-09 16:05:53.5212 INFO --  All products sent successfully.
+2021-01-09 16:07:28.1454 INFO --  All products sent successfully.
+2021-01-09 16:07:29.9137 INFO --  id : 33 found in database
+2021-01-09 16:07:39.1749 INFO --  id : 33 found in database
+2021-01-09 16:08:28.2896 INFO --  id : 33 found in database
+2021-01-09 16:08:35.8454 INFO --  id : 33 found in database
+2021-01-09 16:08:46.2047 INFO --  id : 33 found in database
+2021-01-09 16:08:55.3159 INFO --  id : 33 found in database
+2021-01-09 16:09:04.9547 INFO --  id : 33 found in database
+2021-01-09 16:09:19.8147 INFO --  id : 33 found in database
+2021-01-09 16:09:29.8738 INFO --  id : 33 found in database
+2021-01-09 16:09:52.0345 INFO --  id : 33 found in database
+2021-01-09 16:10:00.0970 INFO --  id : 33 found in database
+2021-01-09 16:10:15.1557 INFO --  id : 33 found in database
+2021-01-09 16:15:35.6706 INFO --  All products sent successfully.
+2021-01-09 16:15:42.6519 INFO --  id : 33 found in database
+2021-01-09 16:15:45.8523 INFO --  All products sent successfully.
+2021-01-09 16:15:50.3284 INFO --  id : 33 found in database
+2021-01-09 16:16:07.4935 INFO --  All products sent successfully.
+2021-01-09 16:16:46.2548 INFO --  All products sent successfully.
+2021-01-09 16:16:47.5364 INFO --  All products sent successfully.
+2021-01-09 16:16:48.6594 INFO --  All products sent successfully.
+2021-01-09 16:16:50.1195 INFO --  id : 33 found in database
+2021-01-09 16:18:10.4917 INFO --  All products sent successfully.
+2021-01-09 16:19:08.1171 INFO --  All products sent successfully.
+2021-01-09 16:22:44.4011 INFO --  id : 33 found in database
+2021-01-09 16:23:43.3804 INFO --  All products sent successfully.
+2021-01-09 16:24:25.0310 INFO --  id : 33 found in database
+2021-01-09 16:25:52.1550 INFO --  All products sent successfully.
+2021-01-09 16:25:53.4466 INFO --  id : 33 found in database
+2021-01-09 16:28:27.1575 INFO --  All products sent successfully.
+2021-01-09 16:28:28.6436 INFO --  id : 33 found in database
+2021-01-09 16:32:07.0146 INFO --  All products sent successfully.
+2021-01-09 16:32:08.9065 INFO --  id : 33 found in database
+2021-01-09 16:32:16.3536 INFO --  id : 33 found in database
+2021-01-09 16:32:33.3532 INFO --  Product Id : 33 updated.
+2021-01-09 16:32:33.3701 INFO --  All products sent successfully.
+2021-01-09 16:32:50.3477 INFO --  id : 33 found in database
+2021-01-09 16:33:12.5111 INFO --  id : 33 found in database
+2021-01-09 16:33:32.8357 INFO --  id : 33 found in database
+2021-01-09 16:35:39.3126 INFO --  id : 33 found in database
+2021-01-09 16:40:33.5084 INFO --  All products sent successfully.
+2021-01-09 16:40:34.6812 INFO --  id : 33 found in database
+2021-01-09 16:40:45.2589 INFO --  id : 33 found in database
+2021-01-09 16:41:37.8014 INFO --  id : 33 found in database
+2021-01-09 16:55:50.6117 INFO --  All products sent successfully.
+2021-01-09 16:55:52.3401 INFO --  id : 33 found in database
+2021-01-09 16:55:59.9595 INFO --  id : 33 found in database
+2021-01-09 16:58:26.1214 INFO --  id : 33 found in database
+2021-01-09 16:59:15.0467 INFO --  All products sent successfully.
+2021-01-09 16:59:16.8320 INFO --  id : 33 found in database
+2021-01-09 16:59:23.9037 INFO --  id : 33 found in database
+2021-01-09 17:01:31.8421 INFO --  All products sent successfully.
+2021-01-09 17:01:33.5534 INFO --  id : 33 found in database
+2021-01-09 17:01:39.2049 INFO --  id : 33 found in database
+2021-01-09 17:03:21.9053 INFO --  All products sent successfully.
+2021-01-09 17:03:23.9182 INFO --  id : 33 found in database
+2021-01-09 17:04:13.5367 INFO --  id : 33 found in database
+2021-01-09 17:04:22.9380 INFO --  id : 33 found in database
+2021-01-09 17:04:46.2722 INFO --  id : 33 found in database
+2021-01-09 17:05:18.9421 INFO --  id : 33 found in database
+2021-01-09 17:06:37.8004 INFO --  id : 33 found in database
+2021-01-09 17:07:16.1152 INFO --  id : 33 found in database
+2021-01-09 17:07:16.6922 INFO --  Product Id : 33 updated.
+2021-01-09 17:07:16.7220 INFO --  All products sent successfully.
+2021-01-09 17:07:18.3759 INFO --  id : 33 found in database
+2021-01-09 17:07:31.2551 INFO --  id : 33 found in database
+2021-01-09 17:07:31.2850 INFO --  Product Id : 33 updated.
+2021-01-09 17:07:31.2980 INFO --  All products sent successfully.
+2021-01-09 17:07:32.3897 INFO --  id : 33 found in database
+2021-01-09 17:07:38.7932 INFO --  id : 33 found in database
+2021-01-09 17:07:40.6403 INFO --  Product Id : 33 updated.
+2021-01-09 17:07:40.6563 INFO --  All products sent successfully.
+2021-01-09 17:07:43.1203 INFO --  id : 33 found in database
+2021-01-09 17:07:48.8179 INFO --  id : 33 found in database
+2021-01-09 17:08:43.1292 INFO --  All products sent successfully.
+2021-01-09 17:08:44.6947 INFO --  id : 33 found in database
+2021-01-09 17:08:55.8512 INFO --  id : 33 found in database
+2021-01-09 17:09:42.9782 INFO --  id : 33 found in database
+2021-01-09 17:09:48.6305 INFO --  All products sent successfully.
+2021-01-09 17:09:49.8945 INFO --  id : 33 found in database
+2021-01-09 17:09:54.3384 INFO --  id : 33 found in database
+2021-01-09 17:11:46.6480 INFO --  All products sent successfully.
+2021-01-09 17:11:48.1419 INFO --  id : 33 found in database
+2021-01-09 17:11:52.8686 INFO --  id : 33 found in database
+2021-01-09 17:13:02.6479 INFO --  All products sent successfully.
+2021-01-09 17:13:05.0375 INFO --  id : 33 found in database
+2021-01-09 17:13:09.8183 INFO --  id : 33 found in database
+2021-01-09 17:14:06.9375 INFO --  All products sent successfully.
+2021-01-09 17:14:08.5915 INFO --  id : 33 found in database
+2021-01-09 17:14:13.1081 INFO --  id : 33 found in database
+2021-01-09 17:14:20.2147 INFO --  id : 33 found in database
+2021-01-09 17:14:22.9921 INFO --  All products sent successfully.
+2021-01-09 17:14:24.0397 INFO --  id : 33 found in database
+2021-01-09 17:14:29.5022 INFO --  id : 33 found in database
+2021-01-09 17:14:40.6518 INFO --  id : 33 found in database
+2021-01-09 17:14:43.7850 INFO --  Product Id : 33 updated.
+2021-01-09 17:14:43.8209 INFO --  All products sent successfully.
+2021-01-09 17:14:45.5136 INFO --  id : 33 found in database
+2021-01-09 17:14:52.2475 INFO --  id : 33 found in database
+2021-01-09 17:14:52.6386 INFO --  Product Id : 33 updated.
+2021-01-09 17:14:52.6574 INFO --  All products sent successfully.
+2021-01-09 17:14:54.3401 INFO --  id : 33 found in database
+2021-01-09 17:14:59.2919 INFO --  id : 33 found in database
+2021-01-09 17:14:59.3129 INFO --  Product Id : 33 updated.
+2021-01-09 17:14:59.3129 INFO --  All products sent successfully.
+2021-01-09 17:15:00.5348 INFO --  id : 33 found in database
+2021-01-09 17:15:05.7631 INFO --  id : 33 found in database
+2021-01-09 17:16:40.5860 INFO --  All products sent successfully.
+2021-01-09 17:16:42.9075 INFO --  id : 33 found in database
+2021-01-09 17:16:47.7843 INFO --  id : 33 found in database
+2021-01-09 17:17:10.1367 INFO --  id : 33 found in database
+2021-01-09 17:17:41.1800 INFO --  All products sent successfully.
+2021-01-09 17:17:42.8084 INFO --  id : 33 found in database
+2021-01-09 17:17:46.9532 INFO --  id : 33 found in database
+2021-01-09 17:18:48.2703 INFO --  id : 33 found in database
+2021-01-09 17:18:50.3595 INFO --  All products sent successfully.
+2021-01-09 17:18:51.7583 INFO --  id : 33 found in database
+2021-01-09 17:19:02.8133 INFO --  id : 33 found in database
+2021-01-09 17:19:14.0060 INFO --  id : 33 found in database
+2021-01-09 17:19:19.6837 INFO --  id : 33 found in database
+2021-01-09 17:21:28.9531 INFO --  All products sent successfully.
+2021-01-09 17:21:37.2945 INFO --  All products sent successfully.
+2021-01-09 17:21:38.4177 INFO --  id : 33 found in database
+2021-01-09 17:21:50.2424 INFO --  id : 33 found in database
+2021-01-09 17:21:57.2146 INFO --  id : 33 found in database
+2021-01-09 17:22:11.4316 INFO --  id : 33 found in database
+2021-01-09 17:22:32.0634 INFO --  id : 33 found in database
+2021-01-09 17:22:37.3153 INFO --  id : 33 found in database
+2021-01-09 17:22:42.2332 INFO --  All products sent successfully.
+2021-01-09 17:22:43.4539 INFO --  id : 33 found in database
+2021-01-09 17:22:48.4775 INFO --  id : 33 found in database
+2021-01-09 17:22:54.4585 INFO --  id : 33 found in database
+2021-01-09 17:22:54.6470 INFO --  Product Id : 33 updated.
+2021-01-09 17:22:54.6630 INFO --  All products sent successfully.
+2021-01-09 17:22:56.1978 INFO --  id : 33 found in database
+2021-01-09 17:23:00.5193 INFO --  id : 33 found in database
+2021-01-09 17:23:04.8886 INFO --  id : 33 found in database
+2021-01-09 17:23:10.3999 INFO --  id : 33 found in database
+2021-01-09 17:23:23.8918 INFO --  All products sent successfully.
+2021-01-09 17:24:09.5906 INFO --  All products sent successfully.
+2021-01-09 17:24:10.5859 INFO --  id : 33 found in database
+2021-01-09 17:24:15.3831 INFO --  id : 33 found in database
+2021-01-09 17:25:37.2093 INFO --  All products sent successfully.
+2021-01-09 17:25:47.1018 INFO --  All products sent successfully.
+2021-01-09 17:25:48.2826 INFO --  id : 33 found in database
+2021-01-09 17:25:54.7304 INFO --  id : 33 found in database
+2021-01-09 17:25:59.9504 INFO --  id : 33 found in database
+2021-01-09 17:26:09.2446 INFO --  id : 33 found in database
+2021-01-09 17:26:58.9701 INFO --  All products sent successfully.
+2021-01-09 17:27:00.6028 INFO --  id : 33 found in database
+2021-01-09 17:27:06.3035 INFO --  id : 33 found in database
+2021-01-09 17:27:12.7642 INFO --  id : 33 found in database
+2021-01-09 17:27:21.3632 INFO --  id : 33 found in database
+2021-01-09 17:27:21.5647 INFO --  Product Id : 33 updated.
+2021-01-09 17:27:21.5807 INFO --  All products sent successfully.
+2021-01-09 17:27:22.7156 INFO --  id : 33 found in database
+2021-01-09 17:27:38.4755 INFO --  All products sent successfully.
+2021-01-09 17:28:18.0048 INFO --  All products sent successfully.
+2021-01-09 17:28:19.0799 INFO --  id : 33 found in database
+2021-01-09 17:28:26.1939 INFO --  id : 33 found in database
+2021-01-09 17:28:33.2290 INFO --  id : 33 found in database
+2021-01-09 17:28:48.9296 INFO --  id : 33 found in database
+2021-01-09 17:28:50.8784 INFO --  Product Id : 33 updated.
+2021-01-09 17:28:50.8993 INFO --  All products sent successfully.
+2021-01-09 17:28:54.0000 INFO --  id : 33 found in database
+2021-01-09 17:28:56.1363 INFO --  All products sent successfully.
+2021-01-09 17:29:02.0974 INFO --  All products sent successfully.
+2021-01-09 17:29:04.1359 INFO --  id : 32 found in database
+2021-01-09 17:29:10.5997 INFO --  id : 32 found in database
+2021-01-09 17:29:12.0767 INFO --  Product Id : 32 updated.
+2021-01-09 17:29:12.1086 INFO --  All products sent successfully.
+2021-01-09 17:29:19.8220 INFO --  All products sent successfully.
+2021-01-09 17:29:22.1188 INFO --  All products sent successfully.
+2021-01-09 17:29:23.6517 INFO --  All products sent successfully.
+2021-01-09 17:29:26.1132 INFO --  All products sent successfully.
+2021-01-09 17:29:29.7744 INFO --  All products sent successfully.
+2021-01-09 17:29:31.9097 INFO --  All products sent successfully.
+2021-01-09 17:29:33.9213 INFO --  All products sent successfully.
+2021-01-09 17:29:35.5320 INFO --  All products sent successfully.
+2021-01-09 17:29:38.6566 INFO --  Search By category : Mobile
+2021-01-09 17:29:44.7453 INFO --  Search By category : Laptop
+2021-01-09 17:29:51.1352 INFO --  Search By category : Earphone
+2021-01-09 17:29:53.2606 INFO --  All products sent successfully.
+2021-01-09 17:36:29.9987 INFO --  All products sent successfully.
+2021-01-09 17:36:33.4598 INFO --  All products sent successfully.
+2021-01-09 17:36:34.5981 INFO --  id : 34 found in database
+2021-01-09 17:36:40.6720 INFO --  id : 34 found in database
+2021-01-09 17:36:40.7932 INFO --  All products sent successfully.
+2021-01-09 17:36:42.6717 INFO --  All products sent successfully.
+2021-01-09 17:37:08.8753 INFO --  id : 34 found in database
+2021-01-09 17:37:13.2712 INFO --  id : 34 found in database
+2021-01-09 17:37:13.3499 INFO --  All products sent successfully.
+2021-01-09 17:39:09.7498 INFO --  All products sent successfully.
+2021-01-09 17:39:12.6691 INFO --  All products sent successfully.
+2021-01-09 17:39:13.9238 INFO --  All products sent successfully.
+2021-01-09 17:39:15.4685 INFO --  id : 34 found in database
+2021-01-09 17:39:21.6916 INFO --  id : 34 found in database
+2021-01-09 17:39:21.9405 INFO --  Product Id : 34 updated.
+2021-01-09 17:39:21.9624 INFO --  All products sent successfully.
+2021-01-09 17:39:23.8714 INFO --  All products sent successfully.
+2021-01-09 17:39:34.5812 INFO --  id : 34 found in database
+2021-01-09 17:39:39.4199 INFO --  id : 34 found in database
+2021-01-09 17:39:39.4659 INFO --  Product Id : 34 updated.
+2021-01-09 17:39:39.4833 INFO --  All products sent successfully.
+2021-01-09 17:39:42.6428 INFO --  All products sent successfully.
+2021-01-09 17:39:52.3595 INFO --  All products sent successfully.
+2021-01-09 17:39:55.2932 INFO --  All products sent successfully.
+2021-01-09 17:39:57.7022 INFO --  All products sent successfully.
+2021-01-09 17:39:59.9243 INFO --  All products sent successfully.
+2021-01-09 17:40:01.2757 INFO --  All products sent successfully.
+2021-01-09 17:41:43.0767 INFO --  Product saved with name : Redmi 9 Prime
+2021-01-09 17:41:43.2762 INFO --  All products sent successfully.
+2021-01-09 17:41:47.1096 INFO --  All products sent successfully.
+2021-01-09 17:41:50.0858 INFO --  id : 36 found in database
+2021-01-09 17:41:56.6665 INFO --  All products sent successfully.
+2021-01-09 17:41:58.7506 INFO --  id : 39 found in database
+2021-01-09 17:42:12.1116 INFO --  Product Id : 39 removed.
+2021-01-09 17:42:12.1116 INFO --  All products sent successfully.
+2021-01-09 17:47:33.8267 INFO --  All products sent successfully.
+2021-01-09 17:51:37.4236 INFO --  Product saved with name : Redmi 9 Prime
+2021-01-09 17:51:37.6421 INFO --  All products sent successfully.
+2021-01-09 17:51:41.8095 INFO --  All products sent successfully.
+2021-01-09 17:51:43.0051 INFO --  All products sent successfully.
+2021-01-09 17:51:46.9006 INFO --  id : 40 found in database
+2021-01-09 17:51:46.9664 INFO --  Product Id : 40 removed.
+2021-01-09 17:51:46.9993 INFO --  All products sent successfully.
+2021-01-09 19:05:29.5619 INFO --  All products sent successfully.
+2021-01-09 19:06:02.5576 INFO --  All products sent successfully.
