@@ -1,0 +1,417 @@
+{
+	"info": {
+		"_postman_id": "7a1b4d3d-e3dd-4702-b6a8-ec12fcc6e9da",
+		"name": "Web Api Final Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:53679/api/Hotel",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": " ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel"
+					]
+				},
+				"description": "Getting Hotel List "
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/PostHotels",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n    {\r\n        \"Name\": \"Able Day Hotel\",\r\n        \"Address\": \"Sydney\",\r\n        \"City\": \"Sydney\",\r\n        \"Pincode\": 321321,\r\n        \"ContactNumber\": \"9685968574\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-12-02T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 1500.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-12-02T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 3000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-12-02T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 4000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-12-02T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Suite\",\r\n                \"Price\": 5000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-12-02T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"Name\": \"Astro Hotel\",\r\n        \"Address\": \"Mumbai\",\r\n        \"City\": \"Mumbai\",\r\n        \"Pincode\": 342343,\r\n        \"ContactNumber\": \"9875849576\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-11-12T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 1100.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-11-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 1900.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-11-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 3000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-11-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Suite\",\r\n                \"Price\": 5000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-11-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Pant House\",\r\n                \"Price\": 10000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-11-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"Name\": \"Dream Hotel\",\r\n        \"Address\": \"Kolkata\",\r\n        \"City\": \"Kolkata\",\r\n        \"Pincode\": 344554,\r\n        \"ContactNumber\": \"9875343234\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-01-12T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 800.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-01-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 1200.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-01-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 2000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-01-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"Name\": \"cresent Hotel\",\r\n        \"Address\": \"Delhi\",\r\n        \"City\": \"Delhi\",\r\n        \"Pincode\": 355001,\r\n        \"ContactNumber\": \"9873323456\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-03-12T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 1100.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-03-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 1500.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-03-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 3400.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-03-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Suite\",\r\n                \"Price\": 5000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-03-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Pant House\",\r\n                \"Price\": 8000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-03-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"Name\": \"Green Acres Hotel\",\r\n        \"Address\": \"Banglore\",\r\n        \"City\": \"Banglore\",\r\n        \"Pincode\": 355660,\r\n        \"ContactNumber\": \"9873234323\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-04-12T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 1500.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-04-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 2000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-04-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 3500.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-04-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Suite\",\r\n                \"Price\": 5000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-04-12T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n           \r\n        ]\r\n    },\r\n    {\r\n        \"Name\": \"Sea Horizon Hotel\",\r\n        \"Address\": \"Diu\",\r\n        \"City\": \"Diu\",\r\n        \"Pincode\": 345660,\r\n        \"ContactNumber\": \"9873278776\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-06-23T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 2000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-23T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 4000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-23T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 6000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-23T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Suite\",\r\n                \"Price\": 7000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-23T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Pant House\",\r\n                \"Price\": 10000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-23T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n           \r\n        ]\r\n    },\r\n    {\r\n        \"Name\": \"Woodlark Hotel\",\r\n        \"Address\": \"Jaipur\",\r\n        \"City\": \"Jaipur\",\r\n        \"Pincode\": 399880,\r\n        \"ContactNumber\": \"9986754566\",\r\n        \"ContactPerson\": \"Paul\",\r\n        \"Website\": null,\r\n        \"Facebook\": null,\r\n        \"Twitter\": null,\r\n        \"IsActive\": true,\r\n        \"CreatedDate\": \"2020-06-03T00:00:00\",\r\n        \"CreatedBy\": \"Paul\",\r\n        \"UpdatedDate\": null,\r\n        \"UpdatedBy\": null,\r\n        \"Rooms\": [\r\n            {\r\n                \"Name\": \"single\",\r\n                \"Price\": 1500.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-03T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 1,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Double\",\r\n                \"Price\": 2000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-03T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 2,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n             {\r\n                \"Name\": \"Duplex\",\r\n                \"Price\": 2500.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-03T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Suite\",\r\n                \"Price\": 4000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-03T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            },\r\n            {\r\n                \"Name\": \"Royal Pant House\",\r\n                \"Price\": 6000.00,\r\n                \"IsActive\": true,\r\n                \"CreatedDate\": \"2020-06-03T00:00:00\",\r\n                \"CreatedBy\": \"Paul\",\r\n                \"UpdatedDate\": null,\r\n                \"UpdatedBy\": null,\r\n                \"CategoryId\": 3,\r\n                \"Bookings\":[],\r\n                \"Hotel\": null,\r\n                \"Room_Category\": null\r\n            }\r\n           \r\n        ]\r\n    }\r\n\r\n    \r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/PostHotels",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"PostHotels"
+					]
+				},
+				"description": "Posting 8 hotels with 3-5 rooms each with different price and categories"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/GetRooms",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n        \"Id\": 0,\r\n        \"Name\": \"Boat Earphone\",\r\n        \"CategoryId\": 3,\r\n        \"Category\": {\r\n            \"Id\": 3,\r\n            \"Name\": \"Earphone\"\r\n        },\r\n        \"Price\": 1200.00,\r\n        \"ShortDesc\": \"Boat\",\r\n        \"LongDesc\": \"Bassheads 450\",\r\n        \"SmallImagePath\": \"bg9.jpg\",\r\n        \"LongImagePath\": \"bg9.jpg\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/GetRooms",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"GetRooms"
+					]
+				},
+				"description": "Get Rooms By price (default)"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/GetRooms?sortBy=city",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/GetRooms?sortBy=city",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"GetRooms"
+					],
+					"query": [
+						{
+							"key": "sortBy",
+							"value": "city"
+						}
+					]
+				},
+				"description": "Get Rooms by city"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/GetRooms?sortBy=pincode",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/GetRooms?sortBy=pincode",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"GetRooms"
+					],
+					"query": [
+						{
+							"key": "sortBy",
+							"value": "pincode"
+						}
+					]
+				},
+				"description": "Get Rooms by pincode"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/GetRooms?sortBy=category",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/GetRooms?sortBy=category",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"GetRooms"
+					],
+					"query": [
+						{
+							"key": "sortBy",
+							"value": "category"
+						}
+					]
+				},
+				"description": "Get Rooms by category"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/GetAvailability?RoomId=2&date=2021-12-12T00:00:00",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/GetAvailability?RoomId=5&date=2021-03-23T00:00:00",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"GetAvailability"
+					],
+					"query": [
+						{
+							"key": "RoomId",
+							"value": "5"
+						},
+						{
+							"key": "date",
+							"value": "2021-03-23T00:00:00"
+						}
+					]
+				},
+				"description": "check room availability or room on perticuler date"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/BookRoom?RoomId=12&date=2021-02-01T00:00:00&status=definitive",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/BookRoom?RoomId=12&date=2021-02-01T00:00:00&status=definitive",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"BookRoom"
+					],
+					"query": [
+						{
+							"key": "RoomId",
+							"value": "12"
+						},
+						{
+							"key": "date",
+							"value": "2021-02-01T00:00:00"
+						},
+						{
+							"key": "status",
+							"value": "definitive"
+						}
+					]
+				},
+				"description": "Booked the room of hotel with perticular date"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/UpdateBookingDate?Id=1005&date=2021-02-02T00:00:00",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/UpdateBookingDate?Id=1005&date=2021-02-02T00:00:00",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"UpdateBookingDate"
+					],
+					"query": [
+						{
+							"key": "Id",
+							"value": "1005"
+						},
+						{
+							"key": "date",
+							"value": "2021-02-02T00:00:00"
+						}
+					]
+				},
+				"description": "update booking date for room by Id"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/UpdateBookingStatus?Id=1&status=definitive",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/UpdateBookingStatus?Id=1&status=definitive",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"UpdateBookingStatus"
+					],
+					"query": [
+						{
+							"key": "Id",
+							"value": "1"
+						},
+						{
+							"key": "status",
+							"value": "definitive"
+						}
+					]
+				},
+				"description": "update booking status by booking id"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53679/api/Hotel/DeleteBooking?id=6",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BASIC YWJjOjEyMw==",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:53679/api/Hotel/DeleteBooking?id=6",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53679",
+					"path": [
+						"api",
+						"Hotel",
+						"DeleteBooking"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "6"
+						}
+					]
+				},
+				"description": "Delete booking by booking id (soft-delete)"
+			},
+			"response": []
+		}
+	]
+}
