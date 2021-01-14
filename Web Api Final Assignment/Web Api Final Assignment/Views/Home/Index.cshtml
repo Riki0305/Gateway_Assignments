@@ -1,0 +1,86 @@
+﻿<div class="jumbotron" >
+    <h1>Web Api Final Assignment</h1>
+    <p class="lead">In this assignment, I have developed a set of REST APIs capable of reading a JSON and returning information by using a collection of simple HTTP requests. I have used postman to test API and save collection of APIs with parameters in postman.</p>
+    <p class="lead">Create web API to hotel management to booking particular room and check availability</p>
+   
+</div>
+@*<div class="row">
+    <div class="col-md-6">
+        <h3>Overview</h3>
+        <p>Create web API to hotel management to booking particular room and check availability.</p>
+    </div>
+    <div class="col-md-6">
+        <h4><b>Specification</b></h4>
+        <p>Your RESTful APIs should be able to respond, with the appropriate data, to the following
+            requests:
+        </p>
+    </div>
+</div>*@
+<hr />
+<div>
+    <h3>List of Web Api's used in this assignment</h3>
+    <br />
+    <table class="table table-bordered table-hover rounded-sm">
+        <thead class="bg-primary text-white">
+            <tr class="text-center">
+                <th>No.</th>
+                <th>Description</th>
+                <th>Type</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tr>
+            <td class="text-center">1</td>
+            <td>Get All Hotels</td>
+            <td class="text-success text-center">GET</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel</a></td>
+        </tr>
+        <tr>
+            <td class="text-center">2</td>
+            <td>Get All Rooms by Hotel city/pincode/category/price(default)</td>
+            <td class="text-success text-center">GET</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/GetRooms?sortby=city</a></td>
+        </tr>
+        <tr>
+            <td class="text-center ">3</td>
+            <td>Get availability of room for perticular date</td>
+            <td class="text-success text-center">GET</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/GetAvailability?RoomId=5&date=2021-03-23T00:00:00</a></td>
+        </tr>
+        <tr>
+            <td class="text-center">4</td>
+            <td>Post multiple hotels</td>
+            <td class="text-warning text-center">POST</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/PostHotels</a></td>
+        </tr>
+        <tr>
+            <td class="text-center">5</td>
+            <td>Book a room</td>
+            <td class="text-warning text-center">POST</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/BookRoom?RoomId=12&date=2021-02-01T00:00:00&status=definitive</a></td>
+        </tr>
+        <tr>
+            <td class="text-center">6</td>
+            <td>Update Booking date by Booking Id</td>
+            <td class="text-primary text-center">PUT</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/UpdateBookingDate?Id=1005&date=2021-02-02T00:00:00</a></td>
+        </tr>
+        <tr>
+            <td class="text-center">7</td>
+            <td>Update Booking status by Booking Id</td>
+            <td class="text-primary text-center">PUT</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/UpdateBookingStatus?Id=1&status=definitive</a></td>
+        </tr>
+        <tr>
+            <td class="text-center">9</td>
+            <td>Delete a room booking</td>
+            <td class="text-danger text-center">DELETE</td>
+            <td> <a href="#">http://localhost:53679/api/Hotel/DeleteBooking?id=6</a></td>
+        </tr>
+    </table>
+   <br />
+</div>
+<div>
+    <h4>Note :</h4>
+    <p>This web Api's are basic authenticated, so you need to add Authorization header to the request header.</p>
+</div>

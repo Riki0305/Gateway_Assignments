@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e1ee8049733b49d08388ed5b1f343fff" Name="Diagram1">
+        <EntityTypeShape EntityType="HotelManagementDBModel.Booking_Status" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HotelManagementDBModel.Booking" Width="1.5" PointX="5.25" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="HotelManagementDBModel.Hotel" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="HotelManagementDBModel.Room" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HotelManagementDBModel.Room_Category" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <AssociationConnector Association="HotelManagementDBModel.FK_Bookings_Booking_Status_BookingStatucId" ManuallyRouted="false" />
+        <AssociationConnector Association="HotelManagementDBModel.FK_Bookings_Room_RoomId" ManuallyRouted="false" />
+        <AssociationConnector Association="HotelManagementDBModel.FK_Room_Hotel_HotelId" ManuallyRouted="false" />
+        <AssociationConnector Association="HotelManagementDBModel.FK_Room_Room_Category_CategoryId" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="HotelManagementDBModel.User" Width="1.5" PointX="7.375" PointY="5.125" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
