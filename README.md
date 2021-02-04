@@ -6,4 +6,5 @@ Name of Assignments done
 2) Source Control Assignment 1
 3) Source Control Final Assignment (submission date 22nd december, 2020)
 4) Web Api Final Assignment
-5) Microservices Assignment
+5) Product Management Assignment
+6) Microservices Assignment
