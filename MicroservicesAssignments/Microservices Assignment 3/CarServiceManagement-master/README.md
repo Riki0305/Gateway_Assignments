@@ -1,5 +1,7 @@
-# CarServiceManagement
+# Car Service Management
 
 In this project I have implemented a microservice architecture.
-In which I have implemented a manual API Gateway in Gateway/Web.HttpAggregator project and an Ocelot Gateway in Gateway/ocelotDemo project.
+In which I have implemented 
+1) A manual API Gateway in "Web.HttpAggregator" project and 
+2) An Ocelot Gateway in "ocelotDemo" project
 Also i have implemented Rate limit in both gateways.
