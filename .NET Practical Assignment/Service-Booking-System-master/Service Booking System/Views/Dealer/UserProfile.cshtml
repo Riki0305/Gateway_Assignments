@@ -1,0 +1,47 @@
+﻿@model SBS.Model.Dealer
+
+@{
+    ViewBag.Title = "UserProfile";
+}
+
+<h2>Dealer Dashboard</h2>
+
+<div>
+    <hr />
+    <div class="dashboard_main">
+        <div class="row">
+          
+            <div class="col-md-3">
+                <label class="label">Name</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Name)</div>
+            </div>
+            <div class="col-md-3">
+                <label class="label">Email</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Email)</div>
+            </div>
+        </div><br />
+        <div class="row">
+            <div class="col-md-3">
+                <label class="label">Contact</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Contact)</div>
+            </div>
+          
+
+        </div><br />
+        <div class="row">
+            <div class="col-md-3">
+                <label class="label">Address 1</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Address1)</div>
+            </div>
+            <div class="col-md-3">
+                <label class="label">Address 2</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Address2)</div>
+            </div>
+            <div class="col-md-3">
+                <label class="label">Zip Code</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.ZipCode)</div>
+            </div>
+        </div>
+    </div>
+</div>
+

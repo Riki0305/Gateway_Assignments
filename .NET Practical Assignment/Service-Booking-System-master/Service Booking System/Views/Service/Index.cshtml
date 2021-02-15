@@ -1,0 +1,52 @@
+﻿@model IEnumerable<SBS.Model.Service>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="text-center">Service List</h2>
+<hr>
+<p>
+    
+    <a class="btn  btn-success" href="@Url.Action("AddorEdit", "Service")"><i class="fa fa-plus "></i> New Service</a>
+</p>
+<table class="table  table-bordered table-hover "  >
+    <tr class="bg-dark text-white align-content-center" >
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Active)
+        </th>
+        <th>Actions</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Active)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "AddorEdit", new { id=item.Id },new { @class="btn btn-sm btn-info"}) 
+            @*@Html.ActionLink("Details", "ServiceProfile", new { id=item.Id },new { @class="btn btn-sm btn-success"})*@ 
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id },new { @class="btn btn-sm btn-danger"})
+        </td>
+    </tr>
+}
+
+</table>

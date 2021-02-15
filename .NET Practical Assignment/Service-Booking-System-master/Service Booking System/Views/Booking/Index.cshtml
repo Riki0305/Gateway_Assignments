@@ -1,0 +1,85 @@
+﻿@model IEnumerable<SBS.Model.Booking>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" />
+<h2 class="text-center">My Bookings</h2><hr />
+
+<p>
+
+    <a class="btn btn-sm btn-success" href="@Url.Action("AddorEdit", "Booking")"><i class="fa fa-plus "></i> New Booking</a>
+    <a class="btn btn-sm btn-info" href="@Url.Action("DownloadExcel", "Booking")"><i class="fa fa-download "></i> Download Booking List</a>
+</p>
+<table class="table table-bordered text-center">
+    <tr class="bg-dark text-white">
+        @if (Session["role"].ToString() == "1")
+        {
+            <th>
+                Customer
+            </th>
+        }
+        <th>
+            Service
+        </th>
+        <th>
+            Mechanic
+        </th>
+        <th>
+            Vehicle Number
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookingStart)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookingEnd)
+        </th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    @if (Session["role"].ToString() == "1")
+    {
+    <th>
+        @Html.DisplayFor(modelItem => item.Customer.Name)
+    </th>
+    }
+    <td>
+        @Html.DisplayFor(modelItem => item.Service.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Mechanic.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Vehicle.LicensePlate)
+    </td>
+    <td>
+        @Convert.ToDateTime(item.BookingStart).ToString("dd/MM/yyyy")
+    </td>
+    <td>
+        @Convert.ToDateTime(item.BookingEnd).ToString("dd/MM/yyyy")
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "AddorEdit", new { id = item.Id }, new { @class = "btn btn-sm btn-info" })
+        @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-sm btn-danger" })
+    </td>
+</tr>
+    }
+
+</table>
+<script>
+    $(function () {
+      
+        var successmessage = '@TempData["SuccessMessage"]';
+         var errormessage = '@TempData["ErrorMessage"]';
+         if (successmessage != '') {
+             alertify.success(successmessage);
+         }
+         if (errormessage != '') {
+             alertify.error(errormessage);
+         }
+    });
+</script>

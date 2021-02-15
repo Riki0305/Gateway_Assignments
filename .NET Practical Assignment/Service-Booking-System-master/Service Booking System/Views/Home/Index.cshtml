@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+   
+
+}
+
+<div class="jumbotron">
+    @if (Session["user"] != null)
+    {
+        <h1>Welcome  @ViewBag.username </h1>
+    }
+    else
+    {
+        <h1>Service Booking System</h1>
+
+    }
+
+    <div>
+        <p>
+            Here, you can add your vehicles and book appointment for servicing of your vehicle
+        </p>
+    </div>
+
+</div>

@@ -1,0 +1,45 @@
+﻿@model SBS.Model.Mechanic
+
+@{
+    ViewBag.Title = "MechanicProfile";
+}
+<h2>Mechanic Dashboard</h2>
+
+<div>
+
+    <hr />
+    <div class="dashboard_main">
+        <div class="row">
+            <div class="col-md-3">
+                <label class="label">Mechanic Number</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.MechanicNo)</div>
+            </div>
+            <div class="col-md-3">
+                <label class="label">Name</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Name)</div>
+            </div>
+            <div class="col-md-3">
+                <label class="label">Email</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Email)</div>
+            </div>
+        </div><br />
+        <div class="row">
+            <div class="col-md-3">
+                <label class="label">Contact</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Contact)</div>
+            </div>
+
+            <div class="col-md-3">
+                <label class="label">Make</label>
+                <div class="label_text"> @Html.DisplayFor(model => model.Make)</div>
+            </div>
+        </div><br />
+
+    </div><br />
+    <div>
+        @Html.ActionLink("Back to mechanic List", "Index",null, new { @class = "btn btn-primary" })
+    </div>
+
+
+
+</div>
