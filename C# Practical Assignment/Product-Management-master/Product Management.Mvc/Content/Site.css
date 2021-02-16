@@ -1,0 +1,157 @@
+﻿body {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+pre {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size:1rem;
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 35px;
+    padding-right: 15px;
+    padding-top:50px;
+    width:88%;
+    position:absolute;
+    left:170px;
+}
+.inner-body {
+    margin-bottom: 50px;
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+
+.rik {
+    margin: 5px 5px;
+    color: red;
+}
+
+.formcontrol {
+    border: white;
+    outline: none;
+    background: red;
+}
+
+.main-nav {
+    background: #011627;
+}
+.sidebar {
+    background: #2ec4b6;
+    height: 100vh;
+    max-width: 170px;
+    width: 170px;
+    position: fixed;
+    left: 0px;
+    top: 50px;
+    padding-top: 20px;
+}
+
+.sidebar-nav{
+    color:white;
+    width:100%;
+    text-align:center;
+    margin:0px auto;
+    padding:10px 0;
+    font-weight:500;
+    font-size:16px;
+    border-top:1px solid white;
+}
+.sidebar-nav:last-child{
+    border-bottom:1px solid white;
+}
+    .sidebar-nav:hover {
+        color: whitesmoke;
+        text-decoration: none;
+        background: #38a3a5;
+    }
+.topPanel {
+    display: flex;
+   align-items:center;
+}
+
+.buttonPanel{
+    flex:auto;
+}
+
+.searchPanel {
+    /*display:block;*/
+    width: 55%;
+}
+
+.mr2
+{
+    margin:2px;
+}
+
+@media only screen and (max-width:768px)
+{
+    .topPanel{
+        display:flex;
+    }
+    .searchPanel{
+       
+        width:50%;
+    }
+    .searchPanel > button{
+        background:white;
+    }
+}
+
+.paginationPanel{
+    display:flex;
+    justify-content:center;
+    align-content:center;
+    margin:0px 20px;
+}
+
+.orangebg {
+    background: #ff9f1c;
+    color:white;
+}
+.orangebg:hover {
+    background: #ec8e0e;
+    color: white;
+}
+.darkbluebg {
+    background: #011627;
+    color: white;
+}
+.bluebg {
+    background: #2ec4b6;
+    color:white;
+}
+    .bluebg:hover {
+        background: #2eaa9e;
+        color: white;
+    }
+.lightbluebg {
+    background: #7bdff2;
+    color: #090909;
+}
+.btnlink {
+    color: white;
+}
+    .btnlink:hover {
+        text-decoration: none;
+        color:azure;
+    }
+
+.welcome-table{
+    border: 2px solid black;
+    padding:10px 30px;
+    border-radius:5px;
+}
