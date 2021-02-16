@@ -1,0 +1,208 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<Product_Management.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    if(Session["username"]==null)
+    {
+        Response.Redirect("~/Home/Index");
+    }
+}
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<link href="~/Content/Site.css" rel="stylesheet" />
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+
+<div style="margin:0px 20px;">
+    <h2 class="text-center"  >Product List</h2><hr />
+    @using (Html.BeginForm("Index", "Product", FormMethod.Post))
+    {
+        <div class="topPanel">
+            <div class="buttonPanel">
+                <p>
+                    @*<a href="@Url.Action("AddorEdit","Product")" class="btn btn-primary mr-2"><i class="fa fa-plus"></i> Add Product</a>*@
+                    <input type="submit" value="Delete Multiple"  name="submitButton1" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this item?');" />
+                </p>
+            </div>
+            <div class="searchPanel">
+                <p>
+
+                    <text> Search By : </text> @Html.RadioButton("SearchBy", "Name", true)<text>  Name</text>
+                    @Html.RadioButton("SearchBy", "Category")<text> Category</text>
+                    @Html.TextBox("Search", null, new { @class = "mr2" })
+                    <input type="submit" name="submitButton" value="Search" class="btn orangebg mr2" />
+                    @Html.ActionLink("Refresh", "Index", "Product", new { @class = "btn orangebg" })
+                    @*<div class="form-row">
+
+                            <input type="text" name="search" class="form-control col-md-8 mr2" />
+                            <button type="submit" name="searchButton" class="btn btn-primary col-md-3 mr2">Search</button>
+                        </div>*@
+
+
+
+
+                </p>
+            </div>
+        </div>
+        <div style="overflow-x:auto;  ">
+            <table class="table table-bordered table-hover ">
+                <thead class="darkbluebg text-white" >
+                    <tr class="text-center">
+                        <th>
+                            <input type="checkbox" id="checkBoxAll" />
+                        </th>
+                        <th class="w-25 ">
+                            @Html.ActionLink("Name", "Index", new { sortBy = ViewBag.SortNameParameter, SearchBy = ViewBag.SearchBy, Search = ViewBag.Search }, new { @class = "btnlink" })
+
+                           
+
+                            @if (ViewBag.SortNameParameter == "Name Desc")
+                            {
+                                <i class="fa fa-sort-up"></i>
+                            }
+                            else if (ViewBag.SortNameParameter == "Name")
+                            {
+                                <i class="fa fa-sort-down"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-sort-down"></i>
+                            }
+                        </th>
+                        <th class="w-25">
+                            @Html.ActionLink("Category", "Index", new { sortBy = ViewBag.SortCategoryParameter, SearchBy = ViewBag.SearchBy, Search = ViewBag.Search }, new { @class = "btnlink" })
+                            @if (ViewBag.SortCategoryParameter == "Category Desc")
+                            {
+                                <i class="fa fa-sort-up"></i>
+                            }
+                            else if (ViewBag.SortCategoryParameter == "Category")
+                            {
+                                <i class="fa fa-sort-down"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-sort"></i>
+                            }
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Price)
+                        </th>
+                        <th class="w-25">
+                            Description
+                            @*@Html.DisplayNameFor(model => model.First().ShortDesc)*@
+                        </th>
+                        @*<th class="w-25">
+                            @Html.DisplayNameFor(model => model.First().LongDesc)
+                        </th>*@
+                        <th>
+                           ProductImage
+                            @*@Html.DisplayNameFor(model => model.First().SmallImagePath)*@
+                        </th>
+                        @*<th>
+                            @Html.DisplayNameFor(model => model.First().LongImagePath)
+                        </th>*@
+                        <th class="w-25">Actions</th>
+                    </tr>
+                </thead>
+                @if (Model.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="8"> No Records Found</td>
+                    </tr>
+                }
+                else
+                            {
+                                foreach (var item in Model)
+                                {
+                        <tr class="text-center">
+                            <th>
+                                <input type="checkbox" class="chkCheckBoxId" name="productId" value="@item.Id" />
+
+                            </th>
+                            <td class="w-25 align-middle">
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td class="w-25 align-middle">
+                                @Html.DisplayFor(modelItem => item.Category.Name)
+                            </td>
+                            <td class="align-middle">
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+                            <td class="w-25 align-middle" >
+                                @Html.DisplayFor(modelItem => item.ShortDesc)
+                                
+                            </td>
+                            @*<td class="w-25 align-middle">
+                                @Html.DisplayFor(modelItem => item.LongDesc)
+                            </td>*@
+                            <td class="align-middle">
+                                <img src="@Url.Content(item.SmallImagePath)" width="90%" />
+                            </td>
+                            @*<td class="align-middle">
+                                <img src="@Url.Content(item.LongImagePath)" width="90%" />
+                            </td>*@
+                            <td class="w-25 align-middle">
+                                <a href="@Url.Action("AddorEdit","Product", new { id=item.Id })" class="btn bluebg mb-2"><i class="fa fa-edit"></i>  Edit</a>
+
+                                <a onclick="Delete(@item.Id)" class="btn btn-danger mb-2"><i class="fa fa-trash"></i>  Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+
+
+            </table>
+        </div>
+        <div class="paginationPanel">
+            @Html.PagedListPager(Model, page => (Url.Action("Index", new { page, SearchBy = Request.QueryString["SearchBy"], Search = Request.QueryString["Search"],sortBy=Request.QueryString["sortBy"] })),
+            new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true,DisplayItemSliceAndTotal=true })
+        </div>
+    }
+</div>
+@section scripts{
+    <script>
+        //showing success and error messages
+        $(function () {
+            var successmessage = '@TempData["SuccessMessage"]'
+            var errormessage = '@TempData["ErrorMessage"]'
+            if (successmessage != '')
+               alertify.success(successmessage);
+                if (errormessage != '')
+                     alertify.error(errormessage);
+                        //alertify.success("Here I caome...");
+                       })
+
+        //main checkbox to select All products
+        $(function () {
+
+            $("#checkBoxAll").click(function () {
+                                        if ($(this).is(":checked"))
+                    $(".chkCheckBoxId").prop('checked', true);
+                else
+                    $(".chkCheckBoxId").prop('checked', false);
+                                    });
+                                })
+
+
+        function Delete(id) {
+           alertify.confirm('Web Api CRUD Operations', 'Are you sure want to delete this record?', function () {
+           window.location.href = "@Url.Action("Delete","Product")/"+id;
+           },null)
+        }
+
+        //Multiple Deletion method
+        function DeleteMultiple(button) {
+
+          alertify.confirm('Delete Multiple Records', "Are you sure want to delete this record?", function () {
+
+           button.form.submit();
+           // alertify.success("You've clicked OK", function() {
+           //   button.form.submit()
+           // });
+          }, null);
+
+          return false;
+        }
+
+    </script>
+} 

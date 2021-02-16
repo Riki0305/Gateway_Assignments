@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    if(Session["username"]!= null)
+    {
+        Response.Redirect("~/Account/Index");
+    }
+}
+
+<div class="jumbotron" style="background:white;">
+    <h1>Product Management</h1>
+    <p class="lead">A web application for managing your product details in an efficiant way.<br />Here you can add/update/remove your products, also you have features for editing them.<br /><br />
+    Please login or register to use our services</p>
+    <p>@Html.ActionLink("Login","Login","Account",null,new { @class="btn btn-success"})</p>
+</div>
+

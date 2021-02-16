@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/Content/alertifyjs/alertify.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/themes/default.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top shadow-sm main-nav" >
+        @Html.ActionLink("Product Management", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse " id="navbarCollapse" >
+            <div class="navbar-nav mr-auto">
+                @Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-item nav-link active" })
+                @*@if (Session["username"] != null)
+                {
+                    @Html.ActionLink("Product List", "Index", "Product", null, new { @class = "nav-item nav-link active" })
+                    @Html.ActionLink("Add Product", "AddorEdit", "Product", null, new { @class = "nav-item nav-link active" })
+                }*@
+            </div>
+            <div class="navbar-nav">
+
+                @if (Session["username"] == null)
+                {
+                    @Html.ActionLink("Register", "Register", "Account", null, new { @class = "nav-item nav-link " })
+                    @Html.ActionLink("Login", "Login", "Account", null, new { @class = "nav-item nav-link " })
+                }
+                else
+                {
+                    @Html.ActionLink("Logout", "Logout", "Account", null, new { @class = "nav-item nav-link " })
+                }
+
+
+
+            </div>
+           
+        </div>
+    </nav>
+      @if(Session["username"]!=null)
+      {
+            <div class="navbar-nav sidebar">
+                @Html.ActionLink("Product List", "Index", "Product", null, new { @class = "sidebar-nav" })
+                @Html.ActionLink("Add Product", "AddorEdit", "Product", null, new { @class = "sidebar-nav " })
+            </div>
+      }
+    
+    <div class=" body-content">
+        <br />
+        <div class="inner-body">
+            @RenderBody()
+        </div>
+        
+        
+    <footer class="fixed-bottom" style="margin:0px 190px;background:white;">
+        <hr />
+        <p style="font-size:10px">&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+    </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+<script src="~/Scripts/alertify.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>
