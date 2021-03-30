@@ -1,0 +1,114 @@
+[
+  {
+
+     "id":"1",
+     "email":"zomato@gmail.com",
+     "name":"zomato",
+     "totalEmployee":"2000",
+     "address":"Mumbai",
+     "isCompanyActive":true,
+     "totalBranch":"3",
+     "companyBranch":[{
+                     "id":"1",
+                     "name":"zomato1",
+                     "address":"mumbai"
+                      },
+
+                      {
+                     "id":"2",
+                     "name":"zomato2",
+                     "address":"mumbai"
+                     },
+                     {
+                     "id":"3",
+                     "name":"zomato3",
+                     "address":"mumbai"
+                      }
+
+  ]
+  },
+  {
+
+     "id":"2",
+     "email":"ola@gmail.com",
+     "name":"ola",
+     "totalEmployee":"2000",
+     "address":"Mumbai",
+     "isCompanyActive":true,
+     "totalBranch":"3",
+     "companyBranch":[{
+                     "id":"1",
+                     "name":"ola1",
+                     "address":"mumbai"
+                      },
+
+                      {
+                     "id":"2",
+                     "name":"ola2",
+                     "address":"mumbai"
+                     },
+                     {
+                     "id":"3",
+                     "name":"ola3",
+                     "address":"mumbai"
+                      }
+
+  ]
+  },
+  {
+
+     "id":"3",
+     "email":"Uber@gmail.com",
+     "name":"Uber",
+     "totalEmployee":"2000",
+     "address":"Mumbai",
+     "isCompanyActive":true,
+     "totalBranch":"3",
+     "companyBranch":[{
+                     "id":"1",
+                     "name":"Uber1",
+                     "address":"mumbai"
+                      },
+
+                      {
+                     "id":"2",
+                     "name":"Uber2",
+                     "address":"mumbai"
+                     },
+                     {
+                     "id":"3",
+                     "name":"Uber3",
+                     "address":"mumbai"
+                      }
+
+  ]
+  },
+  {
+
+     "id":"4",
+     "email":"zomato@gmail.com",
+     "name":"zomato",
+     "totalEmployee":"2000",
+     "address":"Mumbai",
+     "isCompanyActive":true,
+     "totalBranch":"3",
+     "companyBranch":[{
+                     "id":"1",
+                     "name":"zomato1",
+                     "address":"mumbai"
+                      },
+
+                      {
+                     "id":"2",
+                     "name":"zomato2",
+                     "address":"mumbai"
+                     },
+                     {
+                     "id":"3",
+                     "name":"zomato3",
+                     "address":"mumbai"
+                      }
+
+  ]
+  }
+]

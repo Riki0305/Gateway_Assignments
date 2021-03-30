@@ -1,0 +1,110 @@
+<main>
+  <div class="conatiner">
+
+      <h3 class="text-center">Edit Company </h3>
+
+
+    <hr>
+    <div class=" d-flex justify-content-end">
+      <button class="btn btn-primary" routerLink="/company">Back to Dashboard</button>
+    </div>
+  </div>
+
+  <div class=" formContainer">
+
+
+    <form [formGroup]="companyForm" id="companyForm" (ngSubmit)="onSubmit()">
+      <div class="forms">
+      <div class="company">
+        <div class="heading">
+          Company details
+        </div>
+        <div class="form_fields">
+          <div class="row">
+
+
+            <div class="form-row col-12 col-sm-6 col-md-6 col-lg-6">
+              <label>  Name  </label>
+              <input type="text" class="form-control" formControlName="name">
+            </div>
+            <div class="form-row col-12 col-sm-6 col-md-6 col-lg-6">
+              <label>  Email  </label>
+              <input type="text" class="form-control" formControlName="email">
+            </div>
+            <div class="form-row col-12 col-sm-6 col-md-6 col-lg-6">
+              <label>  Address  </label>
+              <input type="text" class="form-control" formControlName="address">
+            </div>
+            <div class="form-row col-12 col-sm-6 col-md-6 col-lg-6">
+              <label>  Total Employees  </label>
+              <input type="number" class="form-control" formControlName="totalEmployee">
+            </div>
+            <div class="form-row col-12 col-sm-6 col-md-6 col-lg-6">
+              <div >
+                <input type="checkbox"   formControlName="isCompanyActive">
+                <label class="form-check-label">&nbsp;&nbsp; Is Company Active  </label>
+
+
+              </div>
+
+            </div>
+             </div>
+        </div>
+
+      </div>
+      <div class="branch">
+        <div class="heading">
+          Branch details
+        </div>
+        <div class="form_fields">
+          <div class="d-flex justify-content-end sticky-top add_branch_btn">
+            <button type="button" class="btn btn-primary " (click)="addBranch()">Add Branch</button>
+          </div>
+          <div class="row">
+
+          <div class="form-row col-12 ">
+
+            <div formArrayName="companyBranch">
+
+
+              <div class="row" *ngFor="let item of branches.controls; let pointIndex=index" [formGroupName]="pointIndex">
+                <div class="form-row col-12 col-sm-5">
+                  <label>  Branch name  </label>
+                  <input type="text" class="form-control" formControlName="name">
+                </div>
+                <div class="form-row col-12 col-sm-5">
+                  <label>  Branch address </label>
+                  <input type="text" class="form-control" formControlName="address">
+                </div>
+                <div class=" col-12 col-sm-2">
+                  <br>
+                  <button type="button" class="mt-3 btn btn-danger" (click)="deleteBranch(pointIndex)">Delete</button>
+                </div>
+
+
+            </div>
+
+            </div>
+
+          </div>
+
+
+        </div>
+        </div>
+
+
+    </div>
+  </div>
+  <div class="buttons">
+    <div class="form-row col-12 d-flex justify-content-end mt-4">
+      <button type="submit" class="btn btn-success">Submit</button>
+    </div>
+  </div>
+    </form>
+
+  </div>
+
+
+
+
+</main>

@@ -1,0 +1,112 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "email": "zomato@gmail.com",
+      "name": "zomato",
+      "totalEmployee": "2000",
+      "address": "Mumbai",
+      "isCompanyActive": false,
+      "companyBranch": [
+        {
+          "id": "1",
+          "name": "Zomato Mumbai",
+          "address": "Mumbai"
+        },
+        {
+          "id": "3",
+          "name": "Zomato Ahmedabad",
+          "address": "Ahmedabad"
+        },
+        {
+          "id": null,
+          "name": "Zomato Navi Mumbai",
+          "address": "Navi Mumbai"
+        },
+        {
+          "id": null,
+          "name": "Zomato Anand",
+          "address": "Anand"
+        }
+      ],
+      "totalBranch": 4
+    },
+    {
+      "id": 2,
+      "email": "uber@gmail.com",
+      "name": "Uber",
+      "totalEmployee": 200,
+      "address": "Ahmedabad",
+      "isCompanyActive": false,
+      "companyBranch": [
+        {
+          "id": null,
+          "name": "Uber Ahmedabad",
+          "address": "Ahmedabad"
+        },
+        {
+          "name": "Uber Baroda ",
+          "address": "Baroda"
+        }
+      ],
+      "totalBranch": 2
+    },
+    {
+      "id": 3,
+      "email": "ola@gmail.com",
+      "name": "Ola",
+      "totalEmployee": 500,
+      "address": "Ahmedabad",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "id": null,
+          "name": "Ola Ahmedabad",
+          "address": "Ahmedabad"
+        },
+        {
+          "id": null,
+          "name": "Ola Rajkot",
+          "address": "Rajkot"
+        },
+        {
+          "id": null,
+          "name": "Ola Maisur",
+          "address": "Maisur"
+        },
+        {
+          "id": null,
+          "name": "Ola Anand",
+          "address": "Anand"
+        }
+      ],
+      "totalBranch": 4
+    },
+    {
+      "id": 4,
+      "email": "starbucksindia@gmail.com",
+      "name": "Starbucks",
+      "totalEmployee": 2000,
+      "address": "USA",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "id": null,
+          "name": "Starbucks Anand",
+          "address": "Anand"
+        },
+        {
+          "id": null,
+          "name": "Starbucks Baroda",
+          "address": "Baroda"
+        },
+        {
+          "id": null,
+          "name": "Starbucks Ahmedabad",
+          "address": "Ahmedabad"
+        }
+      ],
+      "totalBranch": 3
+    }
+  ]
+}

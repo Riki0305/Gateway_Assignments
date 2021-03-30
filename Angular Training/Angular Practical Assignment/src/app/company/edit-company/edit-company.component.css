@@ -1,0 +1,71 @@
+main{
+  margin: 20px;
+
+}
+.form-row{
+  margin: 10px 0px;
+}
+.form_fields{
+  border: 1px solid rgba(138, 138, 138, 0.7);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 20px;
+
+}
+.heading{
+  background: #ff4d00;
+  color: white;
+  width: calc(100% );
+  padding: 12px 20px 7px 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+
+}
+.formContainer{
+  max-width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.company{
+  width: 48%;
+  padding: 30px;
+  margin: 0 10px;
+
+}
+.branch{
+  width: 48%;
+  margin: 0 10px;
+  padding:  30px;
+
+
+}
+.branch .form_fields{
+  height: 400px;
+  overflow-y: auto;
+}
+#companyForm{
+  margin: 40px;
+  padding: 40px;
+  flex-direction: column;
+}
+.add_branch_btn{
+  position: relative;
+  margin-bottom: -40px;
+  top: -20px;
+  left: -20px;
+  width:calc( 100% + 40px ) ;
+  padding: 20px;
+}
+.forms{
+  display: flex;
+  justify-content: center;
+}
+
+
+.center-align{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

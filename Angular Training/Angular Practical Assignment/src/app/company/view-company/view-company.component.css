@@ -1,0 +1,47 @@
+main{
+  margin: 20px;
+
+}
+.form-row{
+  margin: 10px 0px;
+}
+.title{
+  padding: 10px;
+}
+.formContainer{
+  max-width: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.company{
+  width: 48%;
+  padding: 30px;
+  margin: 0 10px;
+  height: 500px;
+  box-shadow: 1px 2px 4px rgba(0,0,0,0.4);
+}
+.branch{
+  width: 48%;
+  margin: 0 10px;
+  box-shadow: 1px 2px 4px rgba(0,0,0,0.4);
+  height: 500px;
+  padding:  30px;
+  overflow-y: auto;
+}
+.comp_table td:nth-child(2)
+{
+  font-weight: 600;
+}
+.forms{
+  display: flex;
+  justify-content: center;
+}
+
+
+.center-align{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
