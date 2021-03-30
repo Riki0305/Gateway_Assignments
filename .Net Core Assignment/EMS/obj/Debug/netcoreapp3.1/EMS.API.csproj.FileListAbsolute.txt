@@ -1,0 +1,328 @@
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.API.exe
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.API.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.dev.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.Manifest.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.xml
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.API.styles.css
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.csproj.CopyComplete
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment\obj\Debug\netcoreapp3.1\EMS.API.genruntimeconfig.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.API.exe
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.API.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.dev.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.Manifest.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.xml
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.API.styles.css
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.csproj.CopyComplete
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS\obj\Debug\netcoreapp3.1\EMS.API.genruntimeconfig.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.exe
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.deps.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.dev.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.csprojAssemblyReference.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfo.cs
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.Manifest.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.xml
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.API.styles.css
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.csproj.CopyComplete
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.genruntimeconfig.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.exe
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.deps.json
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.json
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.runtimeconfig.dev.json
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.csprojAssemblyReference.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfoInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.AssemblyInfo.cs
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.Manifest.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\staticwebassets\EMS.API.StaticWebAssets.xml
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.API.styles.css
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.csproj.CopyComplete
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.dll
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.pdb
+C:\Users\Rikin\Downloads\Gateway_Corp\Net-Core-Assignment\EMS\obj\Debug\netcoreapp3.1\EMS.API.genruntimeconfig.cache

@@ -1,0 +1,369 @@
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.exe
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.deps.json
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.runtimeconfig.json
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.runtimeconfig.dev.json
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.pdb
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.pdb
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csprojAssemblyReference.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.AssemblyInfoInputs.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.AssemblyInfo.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csproj.CoreCompileInputs.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorAssemblyInfo.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorAssemblyInfo.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreAssignment.MVC.StaticWebAssets.Manifest.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreAssignment.MVC.StaticWebAssets.xml
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCoreAssignment.MVC.styles.css
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.TagHelpers.input.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.TagHelpers.output.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorCoreGenerate.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorTargetAssemblyInfo.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorTargetAssemblyInfo.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.pdb
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.pdb
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.genruntimeconfig.cache
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csproj.CopyComplete
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.Models.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.Models.pdb
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\.Net Core\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.exe
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.deps.json
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.runtimeconfig.json
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.runtimeconfig.dev.json
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.pdb
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.pdb
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.Models.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.Models.pdb
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csprojAssemblyReference.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.AssemblyInfoInputs.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.AssemblyInfo.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csproj.CoreCompileInputs.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorAssemblyInfo.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorAssemblyInfo.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreAssignment.MVC.StaticWebAssets.Manifest.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreAssignment.MVC.StaticWebAssets.xml
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCoreAssignment.MVC.styles.css
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.TagHelpers.input.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.TagHelpers.output.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorCoreGenerate.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorTargetAssemblyInfo.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorTargetAssemblyInfo.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.pdb
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csproj.CopyComplete
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.pdb
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.genruntimeconfig.cache
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Assignments\Gateway-Group-of-Companies\DotNet Core Assignment\AspNetCoreAssignment\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Error.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.exe
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.runtimeconfig.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.runtimeconfig.dev.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\bin\Debug\netcoreapp3.1\AspNetCoreAssignment.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorAssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreAssignment.MVC.StaticWebAssets.Manifest.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreAssignment.MVC.StaticWebAssets.xml
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AspNetCoreAssignment.MVC.styles.css
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.TagHelpers.input.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.TagHelpers.output.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorCoreGenerate.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Error.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\_Layout.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.Views.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.csproj.CopyComplete
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.MVC\obj\Debug\netcoreapp3.1\AspNetCoreAssignment.MVC.genruntimeconfig.cache

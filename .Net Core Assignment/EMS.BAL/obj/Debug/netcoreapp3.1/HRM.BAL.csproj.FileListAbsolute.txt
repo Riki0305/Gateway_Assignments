@@ -1,0 +1,14 @@
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.BAL.deps.json
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.BAL.dll
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.BAL.pdb
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.DAL.dll
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.Models.dll
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.DAL.pdb
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\HRM.Models.pdb
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csprojAssemblyReference.cache
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.AssemblyInfoInputs.cache
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.AssemblyInfo.cs
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.csproj.CopyComplete
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.dll
+C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\HRM.BAL.pdb
