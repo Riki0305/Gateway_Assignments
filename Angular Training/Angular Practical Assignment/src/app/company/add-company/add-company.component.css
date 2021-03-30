@@ -22,22 +22,16 @@ main{
 
 }
 .formContainer{
-  max-width: 100%;
-  margin: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
 }
 .company{
-  width: 48%;
-  padding: 30px;
-  margin: 0 10px;
+
+margin: 10px 0px;
 
 }
 .branch{
-  width: 48%;
-  margin: 0 10px;
-  padding:  30px;
+  margin: 10px 0px;
+
 
 
 }
@@ -47,7 +41,6 @@ main{
 }
 #companyForm{
   margin: 40px;
-  padding: 40px;
   flex-direction: column;
 }
 .add_branch_btn{

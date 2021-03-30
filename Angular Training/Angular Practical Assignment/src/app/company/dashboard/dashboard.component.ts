@@ -20,6 +20,9 @@ companies$;
    })
   }
 
-
+  toggleNavbar()
+  {
+    $("#bodyForMenu").toggleClass("sb-sidenav-toggled");
+  }
 
 }

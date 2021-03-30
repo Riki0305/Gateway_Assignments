@@ -22,7 +22,7 @@ export class Company{
   totalEmployee:number=0;
   @required()
   address:string='';
-  @required()
+
   isCompanyActive:boolean;
   totalBranch:number=0;
 

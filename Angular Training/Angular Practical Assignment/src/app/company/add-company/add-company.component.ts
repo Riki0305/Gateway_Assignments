@@ -21,7 +21,7 @@ branchCount=4;
     name:['',Validators.required],
     totalEmployee:['',Validators.required],
     address:['',Validators.required],
-    isCompanyActive:['',Validators.required],
+    isCompanyActive:[true],
     companyBranch:this.fb.array([])
 
   })
