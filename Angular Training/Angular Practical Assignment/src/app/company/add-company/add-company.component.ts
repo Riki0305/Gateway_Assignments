@@ -37,7 +37,7 @@ branchCount=4;
   }
 
   addBranch() {
-    this.branches.push(this.fb.group({name:'',address:''}));
+    this.branches.push(this.fb.group({id:'',name:'',address:''}));
   }
 
   deleteBranch(index) {
@@ -47,9 +47,15 @@ branchCount=4;
 
     var company : Company = this.companyForm.value;
     company.totalBranch = company.companyBranch.length;
-    company.id=this.service.companyCount;
-    this.service.companyCount++;
-    console.log(company);
+    // company.id=this.service.companyCount;
+    //this.service.companyCount++;
+    //console.log(company);
+    let count=1;
+    for(let i=0;i<company.totalBranch;i++)
+    {
+      company.companyBranch[i].id = count;
+      count++;
+    }
     this.service.postCompany(company)
     .subscribe(res=>{
       console.log(res);

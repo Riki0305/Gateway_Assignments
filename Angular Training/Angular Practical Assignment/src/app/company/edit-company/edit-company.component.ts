@@ -78,7 +78,12 @@ export class EditCompanyComponent implements OnInit {
 
     var company : Company = this.companyForm.value;
     company.totalBranch = company.companyBranch.length;
-    console.log(this.companyForm.value);
+    let count=1;
+    for(let i=0;i<company.totalBranch;i++)
+    {
+      company.companyBranch[i].id = count;
+      count++;
+    }
     console.log(company);
     this.service.putCompany(company)
     .subscribe(res=>{

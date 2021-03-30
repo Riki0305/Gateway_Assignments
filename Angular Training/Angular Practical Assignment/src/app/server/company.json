@@ -1,7 +1,7 @@
 {
   "companies": [
     {
-      "id": "1",
+      "id": 1,
       "email": "zomato@gmail.com",
       "name": "zomato",
       "totalEmployee": "2000",
@@ -9,22 +9,22 @@
       "isCompanyActive": false,
       "companyBranch": [
         {
-          "id": "1",
+          "id": 1,
           "name": "Zomato Mumbai",
           "address": "Mumbai"
         },
         {
-          "id": "3",
+          "id": 2,
           "name": "Zomato Ahmedabad",
           "address": "Ahmedabad"
         },
         {
-          "id": null,
+          "id": 3,
           "name": "Zomato Navi Mumbai",
           "address": "Navi Mumbai"
         },
         {
-          "id": null,
+          "id": 4,
           "name": "Zomato Anand",
           "address": "Anand"
         }
@@ -40,11 +40,12 @@
       "isCompanyActive": false,
       "companyBranch": [
         {
-          "id": null,
+          "id": 1,
           "name": "Uber Ahmedabad",
           "address": "Ahmedabad"
         },
         {
+          "id": 2,
           "name": "Uber Baroda ",
           "address": "Baroda"
         }
@@ -60,22 +61,22 @@
       "isCompanyActive": true,
       "companyBranch": [
         {
-          "id": null,
+          "id": 1,
           "name": "Ola Ahmedabad",
           "address": "Ahmedabad"
         },
         {
-          "id": null,
+          "id": 2,
           "name": "Ola Rajkot",
           "address": "Rajkot"
         },
         {
-          "id": null,
+          "id": 3,
           "name": "Ola Maisur",
           "address": "Maisur"
         },
         {
-          "id": null,
+          "id": 4,
           "name": "Ola Anand",
           "address": "Anand"
         }
@@ -91,17 +92,17 @@
       "isCompanyActive": true,
       "companyBranch": [
         {
-          "id": null,
+          "id": 1,
           "name": "Starbucks Anand",
           "address": "Anand"
         },
         {
-          "id": null,
+          "id": 2,
           "name": "Starbucks Baroda",
           "address": "Baroda"
         },
         {
-          "id": null,
+          "id": 3,
           "name": "Starbucks Ahmedabad",
           "address": "Ahmedabad"
         }

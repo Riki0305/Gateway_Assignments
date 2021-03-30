@@ -1,10 +1,10 @@
-import { propArray, required } from "@rxweb/reactive-form-validators";
-import { unique } from "jquery";
+import { propArray, required, unique } from "@rxweb/reactive-form-validators";
+
 
 export class Branch{
 
-  @required()
-  id:number=0;
+  @unique()
+  id:number;
   @required()
   name:string='';
   @required()
@@ -12,8 +12,8 @@ export class Branch{
 }
 
 export class Company{
-  @required()
-  id:number=0;
+  @unique()
+  id:number;
   @required()
   email:string='';
   @required()

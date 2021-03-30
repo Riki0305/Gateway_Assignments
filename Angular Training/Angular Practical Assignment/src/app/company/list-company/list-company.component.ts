@@ -1,4 +1,4 @@
-import { Component, OnDestroy, OnInit } from '@angular/core';
+import { Component, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import { Router } from '@angular/router';
 import { Company } from '../company';
 import { CompanyService } from '../company.service';
@@ -6,6 +6,7 @@ import { ListService } from './list.service';
 import Swal from 'sweetalert2'
 import * as Chart from 'chart.js';
 import { Subject } from 'rxjs';
+import { DataTableDirective } from 'angular-datatables';
 
 @Component({
   selector: 'app-list-company',
@@ -19,12 +20,17 @@ export class ListCompanyComponent implements OnInit,OnDestroy {
 
      this.dtTrigger.unsubscribe();
   }
+  @ViewChild(DataTableDirective) dtElement :DataTableDirective;
   dtTrigger: Subject<any> = new Subject<any>();
   dtOptions: DataTables.Settings = {};
+  flagTable=0;
+
   constructor(public service:ListService,private companyService:CompanyService,private route:Router) { }
 
   ngOnInit(): void {
+    this.flagTable=0;
     this.refreshCompanyList();
+
     this.dtOptions = {
       pagingType: 'full_numbers',
       pageLength: 10
@@ -36,7 +42,15 @@ export class ListCompanyComponent implements OnInit,OnDestroy {
     .subscribe(res=>{
       this.service.companies = res;
       console.log(res);
-      this.dtTrigger.next();
+      if(this.flagTable == 0)
+      {
+        this.dtTrigger.next();
+        this.flagTable = 1
+      }
+      else
+      {
+        this.rerender();
+      }
     })
   }
   onView(company:Company)
@@ -47,6 +61,15 @@ export class ListCompanyComponent implements OnInit,OnDestroy {
   {
     this.companyService.editCompany = company;
     this.route.navigate(['/company/edit']);
+  }
+
+  rerender()
+  {
+     this.dtElement.dtInstance.then((dtInstance : DataTables.Api)=>{
+       dtInstance.clear().draw();
+       dtInstance.destroy();
+       this.dtTrigger.next();
+     });
   }
   onDelete(id:number)
   {
