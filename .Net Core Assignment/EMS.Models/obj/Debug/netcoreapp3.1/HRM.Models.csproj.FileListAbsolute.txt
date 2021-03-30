@@ -1,9 +1,0 @@
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\bin\Debug\netcoreapp3.1\HRM.Models.deps.json
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\bin\Debug\netcoreapp3.1\HRM.Models.dll
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\bin\Debug\netcoreapp3.1\HRM.Models.pdb
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\HRM.Models.csprojAssemblyReference.cache
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfoInputs.cache
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\HRM.Models.AssemblyInfo.cs
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\HRM.Models.csproj.CoreCompileInputs.cache
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\HRM.Models.dll
-C:\Users\Rikin\Documents\GitHub\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\HRM.Models.pdb
