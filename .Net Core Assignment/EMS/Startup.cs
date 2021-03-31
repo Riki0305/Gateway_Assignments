@@ -65,7 +65,7 @@ namespace EMS
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             var path = Directory.GetCurrentDirectory();
-            loggerFactory.AddFile("Logs/Errors/APILog-{Date}.txt");
+            loggerFactory.AddFile("Logs/APILog-{Date}.txt");
 
 
             if (env.IsDevelopment())

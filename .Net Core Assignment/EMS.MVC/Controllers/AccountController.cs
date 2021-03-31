@@ -48,7 +48,7 @@ namespace EMS.MVC.Controllers
                 using (HttpClient client = new HttpClient())
                 {
                     StringContent content = new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json");
-                    using (var response = await client.PostAsync("http://localhost:50378/api/Account/Login", content))
+                    using (var response = await client.PostAsync("http://localhost:55327/api/Account/Login", content))
                     {
                         if (response.StatusCode == System.Net.HttpStatusCode.OK)
                         {

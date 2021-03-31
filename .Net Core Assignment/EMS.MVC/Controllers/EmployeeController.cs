@@ -38,7 +38,7 @@ namespace EMS.MVC.Controllers
                 {
                     var token = "Bearer " + HttpContext.Session.GetString("Token");
                     client.DefaultRequestHeaders.Add("Authorization", token);
-                    using (var response = await client.GetAsync("http://localhost:50378/api/Employees/GetEmployees"))
+                    using (var response = await client.GetAsync("http://localhost:55327/api/Employees/GetEmployees"))
                     {
                         var apiResponse = await response.Content.ReadAsStringAsync();
                         var result = JsonConvert.DeserializeObject<List<EmployeesModel>>(apiResponse);
@@ -70,7 +70,7 @@ namespace EMS.MVC.Controllers
                     var token = "Bearer " + HttpContext.Session.GetString("Token");
                     client.DefaultRequestHeaders.Add("Authorization", token);
 
-                    using (var response = await client.GetAsync("http://localhost:50378/api/Employees/GetEmployee?id=" + id))
+                    using (var response = await client.GetAsync("http://localhost:55327/api/Employees/GetEmployee?id=" + id))
                     {
                         var apiResponse = await response.Content.ReadAsStringAsync();
                         var result = JsonConvert.DeserializeObject<EmployeesModel>(apiResponse);
@@ -100,7 +100,7 @@ namespace EMS.MVC.Controllers
                 {
                     var token = "Bearer " + HttpContext.Session.GetString("Token");
                     client.DefaultRequestHeaders.Add("Authorization", token);
-                    using (var response = await client.GetAsync("http://localhost:50378/api/Employees/GetManagers"))
+                    using (var response = await client.GetAsync("http://localhost:55327/api/Employees/GetManagers"))
                     {
                         var apiResponse = await response.Content.ReadAsStringAsync();
                         var result = JsonConvert.DeserializeObject<List<EmployeesModel>>(apiResponse);
@@ -136,7 +136,7 @@ namespace EMS.MVC.Controllers
                         var token = "Bearer " + HttpContext.Session.GetString("Token");
                         client.DefaultRequestHeaders.Add("Authorization", token);
                         StringContent content = new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json");
-                        using (var response = await client.PostAsync("http://localhost:50378/api/Employees/PostEmployee", content))
+                        using (var response = await client.PostAsync("http://localhost:55327/api/Employees/PostEmployee", content))
                         {
                             return RedirectToAction("Index");
                         }
@@ -171,14 +171,14 @@ namespace EMS.MVC.Controllers
                     var token = "Bearer " + HttpContext.Session.GetString("Token");
                     client.DefaultRequestHeaders.Add("Authorization", token);
 
-                    using (var response = await client.GetAsync("http://localhost:50378/api/Employees/GetManagers"))
+                    using (var response = await client.GetAsync("http://localhost:55327/api/Employees/GetManagers"))
                     {
                         var apiResponse = await response.Content.ReadAsStringAsync();
                         var result = JsonConvert.DeserializeObject<List<EmployeesModel>>(apiResponse);
                         ViewBag.Managers = result;
                     }
 
-                    using (var response = await client.GetAsync("http://localhost:50378/api/Employees/GetEmployee?id=" + id))
+                    using (var response = await client.GetAsync("http://localhost:55327/api/Employees/GetEmployee?id=" + id))
                     {
                         var apiResponse = await response.Content.ReadAsStringAsync();
                         var result = JsonConvert.DeserializeObject<EmployeesModel>(apiResponse);
@@ -213,7 +213,7 @@ namespace EMS.MVC.Controllers
                         var token = "Bearer " + HttpContext.Session.GetString("Token");
                         client.DefaultRequestHeaders.Add("Authorization", token);
                         StringContent content = new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json");
-                        using (var response = await client.PutAsync("http://localhost:50378/api/Employees/PutEmployee?id=" + model.Id, content))
+                        using (var response = await client.PutAsync("http://localhost:55327/api/Employees/PutEmployee?id=" + model.Id, content))
                         {
                             return RedirectToAction("Index");
                         }
@@ -246,7 +246,7 @@ namespace EMS.MVC.Controllers
                 {
                     var token = "Bearer " + HttpContext.Session.GetString("Token");
                     client.DefaultRequestHeaders.Add("Authorization", token);
-                    using (var response = await client.DeleteAsync("http://localhost:50378/api/Employees/DeleteEmployee?id=" + id))
+                    using (var response = await client.DeleteAsync("http://localhost:55327/api/Employees/DeleteEmployee?id=" + id))
                     {
                         return RedirectToAction("Index");
                     }

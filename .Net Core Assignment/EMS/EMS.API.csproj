@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Logs\Errors\" />
+    <Folder Include="Logs\" />
   </ItemGroup>
 
 
