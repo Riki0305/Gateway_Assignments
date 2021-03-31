@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace EMS.MVC.Filters
 {
-    public class ModifyHeaderResponseAttribute : ActionFilterAttribute
+    public class CustomResponseHeader : ActionFilterAttribute
     {
         public override void OnActionExecuted(ActionExecutedContext context)
         {
-            context.HttpContext.Response.Headers.Add("X-Custom-Name", "MeetShah");
+            context.HttpContext.Response.Headers.Add("X-Custom-Header", "Custom header by Rikin Patel");
         }
     }
 }

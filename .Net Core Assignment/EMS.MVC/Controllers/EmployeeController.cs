@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace EMS.MVC.Controllers
 {
-    [ModifyHeaderResponse]
+    [CustomResponseHeader]
     public class EmployeeController : Controller
     {
         ILogger _logger;

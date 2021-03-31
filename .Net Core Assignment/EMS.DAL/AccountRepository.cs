@@ -20,7 +20,7 @@ namespace EMS.DAL
             if (model.Username == "admin" && model.Password == "admin")
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var tokenKey = Encoding.ASCII.GetBytes("this is my custom Secret key for authnetication.");
+                var tokenKey = Encoding.ASCII.GetBytes("custom secret key");
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new Claim[] {
