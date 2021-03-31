@@ -1,0 +1,8 @@
+2021-03-31T07:56:28.7072474+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-03-31T07:56:28.7802187+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2021-03-31T07:56:28.7829509+05:30  [INF] Content root path: "C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.MVC" (b5d60022)
+2021-03-31T07:56:29.0917466+05:30 8000000c-0004-fd00-b63f-84710c7967bb [WRN] Failed to determine the https port for redirect. (ca76cc21)
+2021-03-31T07:56:29.7098872+05:30 8000000c-0004-fd00-b63f-84710c7967bb [INF] Time Taken = 00:00:00.4801129 (f69fe053)
+2021-03-31T07:56:31.8348958+05:30 8000000b-0004-ff00-b63f-84710c7967bb [INF] Time Taken = 00:00:01.9119289 (f59638d4)
+2021-03-31T07:57:06.7936572+05:30 80000008-0001-fe00-b63f-84710c7967bb [INF] Time Taken = 00:00:02.3281434 (1afb34f7)
+2021-03-31T07:57:06.8733951+05:30 80000009-0001-fe00-b63f-84710c7967bb [INF] Time Taken = 00:00:00.0698452 (f7b9beee)

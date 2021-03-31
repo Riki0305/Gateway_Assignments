@@ -1,0 +1,56 @@
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CopyComplete
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CopyComplete
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.deps.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csprojAssemblyReference.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfo.cs
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CopyComplete
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.deps.json
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.BAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csprojAssemblyReference.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfoInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.AssemblyInfo.cs
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.csproj.CopyComplete
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.BAL\obj\Debug\netcoreapp3.1\EMS.BAL.pdb

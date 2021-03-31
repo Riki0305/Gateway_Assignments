@@ -1,0 +1,36 @@
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\bin\Debug\netcoreapp3.1\EMS.Models.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\obj\Debug\netcoreapp3.1\EMS.Models.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\obj\Debug\netcoreapp3.1\EMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\obj\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.Models\obj\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.deps.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.csprojAssemblyReference.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfo.cs
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.deps.json
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.csprojAssemblyReference.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfoInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.AssemblyInfo.cs
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.Models\obj\Debug\netcoreapp3.1\EMS.Models.pdb

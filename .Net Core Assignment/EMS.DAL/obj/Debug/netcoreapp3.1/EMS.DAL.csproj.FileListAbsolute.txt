@@ -1,0 +1,60 @@
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.dev.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CopyComplete
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\AspNetCoreAssignment.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.genruntimeconfig.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csprojAssemblyReference.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfo.cs
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.deps.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.dev.json
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CopyComplete
+C:\Users\meets\Documents\Gateway\DotNet Core Assignment\EMS_DotNetCore\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.genruntimeconfig.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.deps.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.dev.json
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csprojAssemblyReference.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfoInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfo.cs
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CopyComplete
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\meets\Documents\GitHub\Gateway_Corp\Net-Core-Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.genruntimeconfig.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.deps.json
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.json
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.runtimeconfig.dev.json
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.Models.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.Models.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csprojAssemblyReference.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfoInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfo.cs
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CopyComplete
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.dll
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.pdb
+C:\Users\Rikin\Downloads\Gateway_Assignments\.Net Core Assignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.genruntimeconfig.cache
