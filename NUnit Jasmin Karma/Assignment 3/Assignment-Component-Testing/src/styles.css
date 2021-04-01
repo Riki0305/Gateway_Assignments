@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  width: 100%;
+  height: 100vh;
+
+  background:linear-gradient(135deg,#90CAF9,#64B5F6);
+}
+.content{
+  width: 100%;
+
+}
+.jumbotron{
+  background: white;
+
+}
