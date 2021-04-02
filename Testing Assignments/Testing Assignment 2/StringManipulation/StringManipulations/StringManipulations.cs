@@ -10,6 +10,11 @@ namespace StringManipulations
 {
     public static class StringManipulations
     {
+        /// <summary>
+        /// Change case of string
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static string ChangeCase(this String str)
         {
             Regex rg = new Regex(@"^[A-Z\s,]*$");
@@ -23,6 +28,11 @@ namespace StringManipulations
             }
         }
 
+        /// <summary>
+        /// Change case of every character in string
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static string ChangeCaseOfCharacter(this String str)
         {
             char y;
@@ -42,6 +52,11 @@ namespace StringManipulations
             return strNew.ToString();
         }
 
+        /// <summary>
+        /// Change string to title case
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static string ChangeToTitleCase(this String str)
         {
             TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
@@ -50,6 +65,11 @@ namespace StringManipulations
             return str;
         }
 
+        /// <summary>
+        /// Check if string is in lower case
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static bool CheckIsLower(this String str)
         {
             Regex rg = new Regex(@"^[a-z\s,]*$");
@@ -60,6 +80,11 @@ namespace StringManipulations
             return false;
         }
 
+        /// <summary>
+        /// Check if string is in upper case
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static bool CheckIsUpper(this String str)
         {
             Regex rg = new Regex(@"^[A-Z\s,]*$");
@@ -70,6 +95,11 @@ namespace StringManipulations
             return false;
         }
 
+        /// <summary>
+        /// Capitalize the string
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static string CapitalizeString(this String str)
         {
             var strNew = new StringBuilder();
@@ -79,6 +109,11 @@ namespace StringManipulations
             return strNew.ToString();
         }
 
+        /// <summary>
+        /// Check if the string is numerical
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static bool CheckIfNumericalString(this String str)
         {
             int n;
@@ -87,6 +122,11 @@ namespace StringManipulations
             return isNumeric;
         }
 
+        /// <summary>
+        /// Remove last character from string
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static string RemoveLastCharacter(this String str)
         {
             str = str.Remove(str.Length - 1);
@@ -94,6 +134,11 @@ namespace StringManipulations
             return str;
         }
 
+        /// <summary>
+        /// Count the words in string
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static int GetWordCount(this String str)
         {
             int wordCount = 1, i = 0;
@@ -108,6 +153,11 @@ namespace StringManipulations
             return wordCount;
         }
 
+        /// <summary>
+        /// Convert string to int
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
         public static int ConvertToIntFromString(this String str)
         {
             int n = 0;

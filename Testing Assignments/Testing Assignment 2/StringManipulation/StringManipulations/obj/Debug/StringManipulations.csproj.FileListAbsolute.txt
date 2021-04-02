@@ -4,3 +4,9 @@ C:\Users\Rikin.patel\Documents\Visual Studio 2017\Projects\StringManipulation\St
 C:\Users\Rikin.patel\Documents\Visual Studio 2017\Projects\StringManipulation\StringManipulations\obj\Debug\StringManipulations.csproj.CoreCompileInputs.cache
 C:\Users\Rikin.patel\Documents\Visual Studio 2017\Projects\StringManipulation\StringManipulations\obj\Debug\StringManipulations.dll
 C:\Users\Rikin.patel\Documents\Visual Studio 2017\Projects\StringManipulation\StringManipulations\obj\Debug\StringManipulations.pdb
+C:\Users\Rikin.patel\Documents\GitHub\Gateway_Assignments\Testing Assignments\Testing Assignment 2\StringManipulation\StringManipulations\bin\Debug\StringManipulations.dll
+C:\Users\Rikin.patel\Documents\GitHub\Gateway_Assignments\Testing Assignments\Testing Assignment 2\StringManipulation\StringManipulations\bin\Debug\StringManipulations.pdb
+C:\Users\Rikin.patel\Documents\GitHub\Gateway_Assignments\Testing Assignments\Testing Assignment 2\StringManipulation\StringManipulations\obj\Debug\StringManipulations.csprojAssemblyReference.cache
+C:\Users\Rikin.patel\Documents\GitHub\Gateway_Assignments\Testing Assignments\Testing Assignment 2\StringManipulation\StringManipulations\obj\Debug\StringManipulations.csproj.CoreCompileInputs.cache
+C:\Users\Rikin.patel\Documents\GitHub\Gateway_Assignments\Testing Assignments\Testing Assignment 2\StringManipulation\StringManipulations\obj\Debug\StringManipulations.dll
+C:\Users\Rikin.patel\Documents\GitHub\Gateway_Assignments\Testing Assignments\Testing Assignment 2\StringManipulation\StringManipulations\obj\Debug\StringManipulations.pdb
