@@ -1,4 +1,4 @@
-# AngularTestingAssignment6 ( Async Testing )
+# Angular Testing Assignment6 ( Async Testing )
 
 
 
