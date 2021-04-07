@@ -1,6 +1,6 @@
-# Angular Testing Assignment6 ( Async Testing )
+# Angular Testing Assignment 6 ( Async Testing )
 
-
+This Project demonstrate the `Async Testing` and `Async http testing`
 
 ## Development server
 
