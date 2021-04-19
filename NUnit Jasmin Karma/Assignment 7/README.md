@@ -1,10 +1,5 @@
-# Angular Testing Assignment 6 ( Async Testing )
+# Angular Testing Assignment 7 
 
-This Project demonstrate the `Async Testing` and `Async http testing`
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Run `npm run server` for a json server. Navigate to `http://localhost:3000/companies`. This will run a json server which is hosting the company data.
+This Project demonstrate the unit test cases for while loop, switch case, if-else, for-each and for loop and 5 unit test cases for exception handling and async functions.
 
 
