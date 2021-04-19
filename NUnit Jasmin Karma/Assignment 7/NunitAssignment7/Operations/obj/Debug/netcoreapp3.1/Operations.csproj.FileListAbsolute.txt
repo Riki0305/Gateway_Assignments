@@ -1,0 +1,9 @@
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\obj\Debug\netcoreapp3.1\Operations.csprojAssemblyReference.cache
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Rikin\source\repos\NunitAssignment7\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
