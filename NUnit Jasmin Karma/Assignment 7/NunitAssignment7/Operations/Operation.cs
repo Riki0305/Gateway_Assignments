@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Operations
 {
@@ -100,6 +101,14 @@ namespace Operations
             {
                 return true;
             }
+        }
+
+        public async Task<int> AddAsync(int x, int y)
+        {
+            
+            await Task.Delay(100).ConfigureAwait(false);
+            // the answer to life, the universe and everything.
+            return x+y;
         }
 
     }

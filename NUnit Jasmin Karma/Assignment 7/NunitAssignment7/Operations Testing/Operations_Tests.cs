@@ -4,6 +4,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Operations_Testing
 {
@@ -123,7 +124,7 @@ namespace Operations_Testing
         public void Divide_Test()
         {
             // Act, Assert
-            Assert.Throws<InvalidOperationException>(() => _operations.Divide(5, 0));
+            Assert.Throws<DivideByZeroException>(() => _operations.Divide(5, 0));
         }
 
         /// <summary>
@@ -153,11 +154,17 @@ namespace Operations_Testing
         public void ValidateName_Test2()
         {
             // Act, Assert
-            Assert.Throws<FormatException>(() => _operations.ValidateName(null));
+            Assert.Throws<NullReferenceException>(() => _operations.ValidateName(null));
         }
 
 
-
+        [Test]
+        public async Task AddAsync_Test()
+        {
+           
+            int result = await _operations.AddAsync(1, 1);
+            Assert.AreEqual(2, result);
+        }
     }
 }
 
