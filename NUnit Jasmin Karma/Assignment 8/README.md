@@ -1,5 +1,5 @@
-# Angular Testing Assignment 7 
+# Angular Testing Assignment 8
 
-This Project demonstrate the unit test cases for while loop, switch case, if-else, for-each and for loop and 5 unit test cases for exception handling and async functions.
+This Project demonstrate the unit test cases for fluent assertions to make strong test cases and custom test attribute to make a serial order of execution of test cases.
 
 
