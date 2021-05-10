@@ -1,0 +1,6 @@
+C:\Users\Rikin\source\repos\NUnitAssignment9\NUnitAssignment9\bin\Debug\NUnitAssignment9.dll
+C:\Users\Rikin\source\repos\NUnitAssignment9\NUnitAssignment9\bin\Debug\NUnitAssignment9.pdb
+C:\Users\Rikin\source\repos\NUnitAssignment9\NUnitAssignment9\obj\Debug\NUnitAssignment9.csprojAssemblyReference.cache
+C:\Users\Rikin\source\repos\NUnitAssignment9\NUnitAssignment9\obj\Debug\NUnitAssignment9.csproj.CoreCompileInputs.cache
+C:\Users\Rikin\source\repos\NUnitAssignment9\NUnitAssignment9\obj\Debug\NUnitAssignment9.dll
+C:\Users\Rikin\source\repos\NUnitAssignment9\NUnitAssignment9\obj\Debug\NUnitAssignment9.pdb
